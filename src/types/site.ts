@@ -7,6 +7,7 @@ export type ImageAsset = {
   src: string;
   alt: string;
   objectPosition?: string;
+  objectFit?: "cover" | "contain";
   galleryClassName?: string;
 };
 

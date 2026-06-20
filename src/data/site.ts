@@ -174,25 +174,25 @@ export const galleryImages: ImageAsset[] = [
     src: "/images/terracielo/barra-flameado.jpg",
     alt: "Trago flameado en la barra de Terracielo Gastrobar",
     objectPosition: "center 64%",
-    galleryClassName: "relative h-[30rem]"
+    objectFit: "contain"
   },
   {
     src: "/images/terracielo/shots-cocteleria.jpg",
     alt: "Shots y cocteleria en ambiente nocturno de Terracielo",
     objectPosition: "center 64%",
-    galleryClassName: "relative h-80"
+    objectFit: "contain"
   },
   {
     src: "/images/terracielo/cafe-corazones.jpg",
     alt: "Cafes con espuma servidos en mesa roja",
     objectPosition: "center 58%",
-    galleryClassName: "relative h-[30rem]"
+    objectFit: "contain"
   },
   {
     src: "/images/terracielo/omelette-cafeteria.jpg",
     alt: "Omelette de cafeteria servido en Terracielo",
     objectPosition: "center 58%",
-    galleryClassName: "relative h-80"
+    objectFit: "contain"
   },
   {
     src: "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=800&q=80",

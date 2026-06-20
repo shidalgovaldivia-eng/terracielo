@@ -13,16 +13,16 @@ export function GallerySection() {
           description="La grilla combina imagenes actuales del local con placeholders premium mientras se prepara una sesion fotografica completa."
           align="center"
         />
-        <div className="mt-12 columns-1 gap-5 sm:columns-2 lg:columns-3">
-          {galleryImages.map((image, index) => (
-            <div key={image.src} className="mb-5 break-inside-avoid overflow-hidden rounded-lg premium-border bg-white/[0.035]">
-              <div className={image.galleryClassName ?? (index % 3 === 0 ? "relative h-96" : "relative h-72")}>
+        <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          {galleryImages.map((image) => (
+            <div key={image.src} className="overflow-hidden rounded-lg premium-border bg-black">
+              <div className={image.galleryClassName ?? "relative aspect-[4/3]"}>
                 <Image
                   src={image.src}
                   alt={image.alt}
                   fill
                   sizes="(min-width: 1024px) 33vw, 100vw"
-                  className="object-cover transition duration-700 hover:scale-105"
+                  className={`${image.objectFit === "contain" ? "object-contain p-2" : "object-cover"} transition duration-700 hover:scale-105`}
                   style={image.objectPosition ? { objectPosition: image.objectPosition } : undefined}
                 />
               </div>
