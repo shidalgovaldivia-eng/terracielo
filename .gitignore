@@ -14,3 +14,5 @@ pnpm-debug.log*
 .codex
 .codex-remote-attachments
 *.tsbuildinfo
+
+.vercel
