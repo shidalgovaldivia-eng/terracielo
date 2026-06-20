@@ -71,7 +71,8 @@ export const featuredDishes: FeaturedItem[] = [
     description: "Opcion de cafeteria con huevo, relleno sabroso y acompanamiento para comenzar el dia.",
     price: "Desde $6.900",
     src: "/images/terracielo/omelette-cafeteria.jpg",
-    alt: "Omelette servido en Terracielo Gastrobar"
+    alt: "Omelette servido en Terracielo Gastrobar",
+    objectPosition: "center 58%"
   },
   {
     name: "Corte Grill",
@@ -86,7 +87,8 @@ export const featuredDishes: FeaturedItem[] = [
     price: "$3.500",
     tag: "Cafe",
     src: "/images/terracielo/cafe-corazones.jpg",
-    alt: "Cafes servidos en Terracielo Gastrobar"
+    alt: "Cafes servidos en Terracielo Gastrobar",
+    objectPosition: "center 58%"
   },
   {
     name: "Postre de Temporada",
@@ -103,7 +105,8 @@ export const cocktails: FeaturedItem[] = [
     description: "Presentacion nocturna para brindar, compartir y encender la previa.",
     price: "Happy Hour",
     src: "/images/terracielo/shots-cocteleria.jpg",
-    alt: "Shots de cocteleria servidos en Terracielo Gastrobar"
+    alt: "Shots de cocteleria servidos en Terracielo Gastrobar",
+    objectPosition: "center 62%"
   },
   {
     name: "Terracielo Sour",
@@ -169,19 +172,27 @@ export const events: EventItem[] = [
 export const galleryImages: ImageAsset[] = [
   {
     src: "/images/terracielo/barra-flameado.jpg",
-    alt: "Trago flameado en la barra de Terracielo Gastrobar"
+    alt: "Trago flameado en la barra de Terracielo Gastrobar",
+    objectPosition: "center 64%",
+    galleryClassName: "relative h-[30rem]"
   },
   {
     src: "/images/terracielo/shots-cocteleria.jpg",
-    alt: "Shots y cocteleria en ambiente nocturno de Terracielo"
+    alt: "Shots y cocteleria en ambiente nocturno de Terracielo",
+    objectPosition: "center 64%",
+    galleryClassName: "relative h-80"
   },
   {
     src: "/images/terracielo/cafe-corazones.jpg",
-    alt: "Cafes con espuma servidos en mesa roja"
+    alt: "Cafes con espuma servidos en mesa roja",
+    objectPosition: "center 58%",
+    galleryClassName: "relative h-[30rem]"
   },
   {
     src: "/images/terracielo/omelette-cafeteria.jpg",
-    alt: "Omelette de cafeteria servido en Terracielo"
+    alt: "Omelette de cafeteria servido en Terracielo",
+    objectPosition: "center 58%",
+    galleryClassName: "relative h-80"
   },
   {
     src: "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=800&q=80",

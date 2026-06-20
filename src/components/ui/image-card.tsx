@@ -15,6 +15,7 @@ export function ImageCard({ item }: ImageCardProps) {
           fill
           sizes="(min-width: 1024px) 33vw, (min-width: 640px) 50vw, 100vw"
           className="object-cover transition duration-700 group-hover:scale-105"
+          style={item.objectPosition ? { objectPosition: item.objectPosition } : undefined}
         />
         <div className="absolute inset-0 bg-gradient-to-t from-black/78 via-black/10 to-transparent" />
         {item.tag ? (

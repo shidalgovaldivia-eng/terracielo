@@ -16,8 +16,15 @@ export function GallerySection() {
         <div className="mt-12 columns-1 gap-5 sm:columns-2 lg:columns-3">
           {galleryImages.map((image, index) => (
             <div key={image.src} className="mb-5 break-inside-avoid overflow-hidden rounded-lg premium-border bg-white/[0.035]">
-              <div className={index % 3 === 0 ? "relative h-96" : "relative h-72"}>
-                <Image src={image.src} alt={image.alt} fill sizes="(min-width: 1024px) 33vw, 100vw" className="object-cover transition duration-700 hover:scale-105" />
+              <div className={image.galleryClassName ?? (index % 3 === 0 ? "relative h-96" : "relative h-72")}>
+                <Image
+                  src={image.src}
+                  alt={image.alt}
+                  fill
+                  sizes="(min-width: 1024px) 33vw, 100vw"
+                  className="object-cover transition duration-700 hover:scale-105"
+                  style={image.objectPosition ? { objectPosition: image.objectPosition } : undefined}
+                />
               </div>
             </div>
           ))}

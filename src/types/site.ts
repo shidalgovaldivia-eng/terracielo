@@ -6,6 +6,8 @@ export type NavItem = {
 export type ImageAsset = {
   src: string;
   alt: string;
+  objectPosition?: string;
+  galleryClassName?: string;
 };
 
 export type FeaturedItem = ImageAsset & {
