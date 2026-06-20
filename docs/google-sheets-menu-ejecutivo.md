@@ -2,6 +2,31 @@
 
 Esta integracion permite que el restaurante actualice el menu diario desde una planilla privada de Google Sheets. La web consulta la planilla desde una API Route server-side y nunca expone credenciales en el navegador.
 
+## Modo demo seguro
+
+Mientras no existan credenciales reales, `/api/menu-del-dia` responde con un menu demo local desde:
+
+```txt
+src/data/menu-demo.ts
+```
+
+El demo usa automaticamente la fecha actual de Chile y devuelve:
+
+```txt
+entrada: Ensalada fresca
+fondo: Pollo grillado
+acompanamiento: Arroz primavera
+bebida: Bebida o jugo natural
+postre: Postre del día
+precio: $7.990
+disponible: SI
+source: demo
+```
+
+Esto permite que la seccion se vea funcionando en produccion sin subir credenciales falsas ni hacer publica la planilla.
+
+La etiqueta visual `Modo demo` solo se muestra en desarrollo local. En produccion no se muestra, aunque la API indique `source: "demo"`.
+
 ## Estructura de la planilla
 
 La primera fila debe tener estos encabezados exactos:
@@ -74,6 +99,24 @@ Notas:
 - `GOOGLE_PRIVATE_KEY` puede pegarse con saltos de linea reales o con `\n`; el codigo soporta ambos formatos.
 - No agregar estas variables en codigo fuente.
 - Despues de configurar variables, redeployar el proyecto.
+
+## Reemplazar demo por Google Sheets real
+
+El modo demo se desactiva automaticamente cuando las tres variables existen en Vercel:
+
+```txt
+GOOGLE_SERVICE_ACCOUNT_EMAIL
+GOOGLE_PRIVATE_KEY
+GOOGLE_SHEET_ID
+```
+
+No hay que cambiar codigo. Despues de configurar las variables y redeployar:
+
+- Si Google Sheets responde y hay menu disponible para la fecha actual, la API devuelve `source: "google_sheets"`.
+- Si Google Sheets responde pero no hay fila disponible para hoy, devuelve `source: "fallback"`.
+- Si faltan variables, devuelve `source: "demo"`.
+
+Para desactivar el modo demo definitivamente, mantener siempre configuradas esas tres variables en todos los entornos donde se quiera leer la planilla real.
 
 ## Como funciona en la web
 

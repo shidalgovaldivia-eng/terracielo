@@ -6,6 +6,7 @@ import type { MenuDelDiaResponse } from "@/types/menu-del-dia";
 
 const fallbackMessage = "Consulta el menu ejecutivo de hoy por WhatsApp";
 const orderUrl = whatsappUrl("Hola, me interesa el menú ejecutivo de hoy.");
+const showDemoBadge = process.env.NODE_ENV !== "production";
 
 const menuItems = [
   { key: "entrada", label: "Entrada", icon: "EN" },
@@ -89,9 +90,16 @@ export function MenuEjecutivoDelDia() {
                 <p className="text-sm font-semibold text-white/48">
                   {data?.date ? `Fecha Chile: ${data.date}` : "Fecha Chile"}
                 </p>
-                <h3 className="mt-2 text-2xl font-black text-cream">
-                  {isLoading ? "Cargando menu..." : menu ? "Disponible hoy" : fallbackMessage}
-                </h3>
+                <div className="mt-2 flex flex-wrap items-center gap-3">
+                  <h3 className="text-2xl font-black text-cream">
+                    {isLoading ? "Cargando menu..." : menu ? "Disponible hoy" : fallbackMessage}
+                  </h3>
+                  {showDemoBadge && data?.source === "demo" ? (
+                    <span className="rounded-full border border-soft-gold/40 bg-soft-gold/10 px-3 py-1 text-xs font-black uppercase tracking-[0.18em] text-soft-gold">
+                      Modo demo
+                    </span>
+                  ) : null}
+                </div>
               </div>
               {menu?.precio ? (
                 <div className="rounded-lg bg-soft-gold px-5 py-4 text-center text-black">

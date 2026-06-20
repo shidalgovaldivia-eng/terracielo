@@ -12,6 +12,7 @@ export type MenuDelDia = {
 export type MenuDelDiaResponse = {
   ok: boolean;
   date: string;
+  source: "demo" | "google_sheets" | "fallback";
   menu: MenuDelDia | null;
   message: string;
 };

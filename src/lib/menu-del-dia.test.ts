@@ -5,6 +5,7 @@ import {
   normalizeMenuRows,
   parseDisponible
 } from "@/lib/menu-del-dia";
+import { getDemoMenuDelDia } from "@/data/menu-demo";
 
 describe("menu del dia", () => {
   it("formats the current date using Chile timezone", () => {
@@ -62,5 +63,20 @@ describe("menu del dia", () => {
 
     expect(findMenuForDate(menus, "2026-06-19")).toBeNull();
     expect(findMenuForDate(menus, "2026-06-20")).toBeNull();
+  });
+
+  it("creates a demo menu for the current Chile date", () => {
+    const utcDate = new Date("2026-06-20T03:30:00.000Z");
+
+    expect(getDemoMenuDelDia(utcDate)).toEqual({
+      fecha: "2026-06-19",
+      entrada: "Ensalada fresca",
+      fondo: "Pollo grillado",
+      acompanamiento: "Arroz primavera",
+      bebida: "Bebida o jugo natural",
+      postre: "Postre del día",
+      precio: "$7.990",
+      disponible: "SI"
+    });
   });
 });
