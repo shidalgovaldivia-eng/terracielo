@@ -35,6 +35,20 @@ La informacion comercial esta centralizada en `src/data/site.ts`:
 - platos, cocteles, eventos, promociones, galeria y testimonios
 - URL publica usada por metadata, sitemap y JSON-LD
 
+## Menu ejecutivo con Google Sheets
+
+La seccion `MenuEjecutivoDelDia` consulta `/api/menu-del-dia`, que lee una planilla privada usando Service Account.
+
+Variables requeridas:
+
+```powershell
+GOOGLE_SERVICE_ACCOUNT_EMAIL
+GOOGLE_PRIVATE_KEY
+GOOGLE_SHEET_ID
+```
+
+Guia completa: `docs/google-sheets-menu-ejecutivo.md`.
+
 ## Mejoras futuras recomendadas
 
 - Reemplazar Unsplash por fotos profesionales reales del local.

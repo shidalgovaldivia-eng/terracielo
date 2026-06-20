@@ -37,6 +37,7 @@ export const siteConfig = {
 
 export const navItems: NavItem[] = [
   { label: "Carta", href: "#platos" },
+  { label: "Menu dia", href: "#menu-ejecutivo" },
   { label: "Cocteleria", href: "#cocteleria" },
   { label: "Eventos", href: "#eventos" },
   { label: "Reservas", href: "#reservas" },

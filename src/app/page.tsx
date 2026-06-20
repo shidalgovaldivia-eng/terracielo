@@ -5,6 +5,7 @@ import { EventsSection } from "@/components/sections/events";
 import { GallerySection } from "@/components/sections/gallery";
 import { Hero } from "@/components/sections/hero";
 import { LocationSection } from "@/components/sections/location";
+import { MenuEjecutivoDelDia } from "@/components/sections/menu-ejecutivo-del-dia";
 import { PromotionsSection } from "@/components/sections/promotions";
 import { ReservationsSection } from "@/components/sections/reservations";
 import { TestimonialsSection } from "@/components/sections/testimonials";
@@ -20,6 +21,7 @@ export default function Home() {
       <Hero />
       <AboutSection />
       <DishesSection />
+      <MenuEjecutivoDelDia />
       <CocktailsSection />
       <EventsSection />
       <GallerySection />
