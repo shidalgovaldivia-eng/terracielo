@@ -45,8 +45,8 @@ export const navItems: NavItem[] = [
 ];
 
 export const heroImage: ImageAsset = {
-  src: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?auto=format&fit=crop&w=1800&q=85",
-  alt: "Interior nocturno de gastrobar moderno con luces calidas"
+  src: "/images/terracielo/terraza-luces.jpg",
+  alt: "Terraza nocturna de Terracielo Gastrobar con luces calidas"
 };
 
 export const featuredDishes: FeaturedItem[] = [
@@ -67,11 +67,11 @@ export const featuredDishes: FeaturedItem[] = [
     alt: "Hamburguesa gourmet con queso y papas"
   },
   {
-    name: "Pasta Cremosa",
-    description: "Pasta salteada con salsa cremosa, hierbas y terminacion de restaurante.",
-    price: "$11.900",
-    src: "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?auto=format&fit=crop&w=900&q=80",
-    alt: "Plato de pasta cremosa servido en restaurante"
+    name: "Omelette Terracielo",
+    description: "Opcion de cafeteria con huevo, relleno sabroso y acompanamiento para comenzar el dia.",
+    price: "Desde $6.900",
+    src: "/images/terracielo/omelette-cafeteria.jpg",
+    alt: "Omelette servido en Terracielo Gastrobar"
   },
   {
     name: "Corte Grill",
@@ -85,8 +85,8 @@ export const featuredDishes: FeaturedItem[] = [
     description: "Cafe preparado para tarde de conversacion, postre y sobremesa.",
     price: "$3.500",
     tag: "Cafe",
-    src: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80",
-    alt: "Cafe servido en taza con ambiente de cafeteria"
+    src: "/images/terracielo/cafe-corazones.jpg",
+    alt: "Cafes servidos en Terracielo Gastrobar"
   },
   {
     name: "Postre de Temporada",
@@ -99,11 +99,11 @@ export const featuredDishes: FeaturedItem[] = [
 
 export const cocktails: FeaturedItem[] = [
   {
-    name: "Neon Spritz",
-    description: "Refrescante, frutal y perfecto para iniciar la noche.",
+    name: "Shots Terracielo",
+    description: "Presentacion nocturna para brindar, compartir y encender la previa.",
     price: "Happy Hour",
-    src: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=900&q=80",
-    alt: "Coctel naranja con hielo y decoracion"
+    src: "/images/terracielo/shots-cocteleria.jpg",
+    alt: "Shots de cocteleria servidos en Terracielo Gastrobar"
   },
   {
     name: "Terracielo Sour",
@@ -168,20 +168,20 @@ export const events: EventItem[] = [
 
 export const galleryImages: ImageAsset[] = [
   {
-    src: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
-    alt: "Restaurante moderno con mesas iluminadas"
+    src: "/images/terracielo/barra-flameado.jpg",
+    alt: "Trago flameado en la barra de Terracielo Gastrobar"
   },
   {
-    src: "https://images.unsplash.com/photo-1559329007-40df8a9345d8?auto=format&fit=crop&w=800&q=80",
-    alt: "Personas compartiendo comida en restaurante"
+    src: "/images/terracielo/shots-cocteleria.jpg",
+    alt: "Shots y cocteleria en ambiente nocturno de Terracielo"
   },
   {
-    src: "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?auto=format&fit=crop&w=800&q=80",
-    alt: "Barra de cocteleria con luces de noche"
+    src: "/images/terracielo/cafe-corazones.jpg",
+    alt: "Cafes con espuma servidos en mesa roja"
   },
   {
-    src: "https://images.unsplash.com/photo-1528605248644-14dd04022da1?auto=format&fit=crop&w=800&q=80",
-    alt: "Grupo de amigos brindando en una mesa"
+    src: "/images/terracielo/omelette-cafeteria.jpg",
+    alt: "Omelette de cafeteria servido en Terracielo"
   },
   {
     src: "https://images.unsplash.com/photo-1551218808-94e220e084d2?auto=format&fit=crop&w=800&q=80",

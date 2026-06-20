@@ -9,8 +9,8 @@ export function GallerySection() {
       <div className="mx-auto max-w-7xl">
         <SectionHeading
           eyebrow="Galeria"
-          title="Ambiente preparado para reemplazar con fotos reales."
-          description="La grilla usa placeholders premium relacionados con restaurante, cocteleria, terraza y eventos nocturnos."
+          title="Primeras fotos reales del ambiente Terracielo."
+          description="La grilla combina imagenes actuales del local con placeholders premium mientras se prepara una sesion fotografica completa."
           align="center"
         />
         <div className="mt-12 columns-1 gap-5 sm:columns-2 lg:columns-3">
