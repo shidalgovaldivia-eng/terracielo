@@ -22,6 +22,8 @@ export type EventItem = ImageAsset & {
   name: string;
   description: string;
   schedule: string;
+  badge?: string;
+  ctaMessage?: string;
 };
 
 export type Testimonial = {
@@ -35,4 +37,6 @@ export type Promotion = {
   title: string;
   description: string;
   badge: string;
+  validity?: string;
+  ctaMessage?: string;
 };

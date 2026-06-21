@@ -129,6 +129,8 @@ export const events: EventItem[] = [
     name: "Karaoke Night",
     schedule: "Jueves seleccionados",
     description: "Noche para cantar, compartir y convertir la mesa en escenario.",
+    badge: "Esta semana",
+    ctaMessage: "Hola Terracielo, quiero consultar por Karaoke Night y reservar una mesa.",
     src: "https://images.unsplash.com/photo-1527261834078-9b37d35a4a32?auto=format&fit=crop&w=900&q=80",
     alt: "Microfono de karaoke en ambiente nocturno"
   },
@@ -136,6 +138,8 @@ export const events: EventItem[] = [
     name: "DJ Session",
     schedule: "Viernes y sabado",
     description: "Musica en vivo, cocteles y ambiente de gastrobar hasta tarde.",
+    badge: "Nocturno",
+    ctaMessage: "Hola Terracielo, quiero reservar para una noche con DJ Session.",
     src: "https://images.unsplash.com/photo-1506157786151-b8491531f063?auto=format&fit=crop&w=900&q=80",
     alt: "DJ mezclando musica en evento nocturno"
   },
@@ -143,6 +147,8 @@ export const events: EventItem[] = [
     name: "Guerra de Sexos",
     schedule: "Eventos tematicos",
     description: "Dinamicas, concursos y entretencion para grupos de amigos.",
+    badge: "Tematico",
+    ctaMessage: "Hola Terracielo, quiero saber cuando es el proximo evento Guerra de Sexos.",
     src: "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=900&q=80",
     alt: "Personas celebrando en evento social"
   },
@@ -150,6 +156,8 @@ export const events: EventItem[] = [
     name: "Halloween",
     schedule: "Temporada octubre",
     description: "Fiesta de disfraces, promociones y experiencias especiales.",
+    badge: "Especial",
+    ctaMessage: "Hola Terracielo, quiero informacion para reservar en Halloween.",
     src: "https://images.unsplash.com/photo-1509557965875-b88c97052f0e?auto=format&fit=crop&w=900&q=80",
     alt: "Coctel tematico de Halloween en barra"
   },
@@ -157,6 +165,8 @@ export const events: EventItem[] = [
     name: "San Valentin",
     schedule: "Febrero",
     description: "Cena, cocteles y ambiente romantico para celebrar en pareja.",
+    badge: "Parejas",
+    ctaMessage: "Hola Terracielo, quiero consultar disponibilidad para San Valentin.",
     src: "https://images.unsplash.com/photo-1519671282429-b44660ead0a7?auto=format&fit=crop&w=900&q=80",
     alt: "Mesa romantica con copas y luz calida"
   },
@@ -164,6 +174,8 @@ export const events: EventItem[] = [
     name: "Eventos Privados",
     schedule: "Con reserva",
     description: "Cumpleanos, reuniones sociales y celebraciones a medida.",
+    badge: "Cotizable",
+    ctaMessage: "Hola Terracielo, quiero cotizar un evento privado o cumpleanos.",
     src: "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?auto=format&fit=crop&w=900&q=80",
     alt: "Celebracion privada en restaurante con luces"
   }
@@ -229,21 +241,29 @@ export const promotions: Promotion[] = [
   {
     title: "Happy Hour",
     description: "Cocteles seleccionados y promociones para comenzar la tarde con buen ambiente.",
-    badge: "After office"
+    badge: "After office",
+    validity: "Consulta horarios vigentes",
+    ctaMessage: "Hola Terracielo, quiero consultar por el Happy Hour de hoy."
   },
   {
     title: "Cumpleanos",
     description: "Reserva tu mesa, celebra con tu grupo y consulta beneficios para festejados.",
-    badge: "Celebraciones"
+    badge: "Celebraciones",
+    validity: "Con reserva previa",
+    ctaMessage: "Hola Terracielo, quiero reservar para celebrar un cumpleanos."
   },
   {
     title: "2x1 Especial",
     description: "Promociones rotativas en bebestibles y platos seleccionados segun evento.",
-    badge: "Promo"
+    badge: "Promo",
+    validity: "Promocion rotativa",
+    ctaMessage: "Hola Terracielo, quiero saber que promociones 2x1 tienen hoy."
   },
   {
     title: "Eventos Tematicos",
     description: "Karaoke, DJ, dinamicas, fechas especiales y experiencias nocturnas.",
-    badge: "Noches TC"
+    badge: "Noches TC",
+    validity: "Programacion semanal",
+    ctaMessage: "Hola Terracielo, quiero consultar por los eventos tematicos de esta semana."
   }
 ];

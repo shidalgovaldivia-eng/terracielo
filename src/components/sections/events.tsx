@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { events } from "@/data/site";
-import { eventReservationUrl } from "@/lib/links";
+import { eventReservationUrl, whatsappUrl } from "@/lib/links";
 import { AnimatedSection } from "@/components/ui/animated-section";
 import { CtaButton } from "@/components/ui/cta-button";
 import { SectionHeading } from "@/components/ui/section-heading";
@@ -23,6 +23,11 @@ export function EventsSection() {
               <div className="relative aspect-[16/10] overflow-hidden">
                 <Image src={event.src} alt={event.alt} fill sizes="(min-width: 1024px) 33vw, 100vw" className="object-cover transition duration-700 group-hover:scale-105" />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/85 to-transparent" />
+                {event.badge ? (
+                  <p className="absolute left-4 top-4 rounded-full bg-neon-red px-3 py-1 text-xs font-black uppercase tracking-[0.18em] text-white">
+                    {event.badge}
+                  </p>
+                ) : null}
                 <p className="absolute bottom-4 left-4 rounded-full bg-soft-gold px-3 py-1 text-xs font-black uppercase tracking-[0.18em] text-black">
                   {event.schedule}
                 </p>
@@ -30,6 +35,14 @@ export function EventsSection() {
               <div className="p-5">
                 <h3 className="text-2xl font-black text-cream">{event.name}</h3>
                 <p className="mt-3 text-sm leading-6 text-white/62">{event.description}</p>
+                <a
+                  href={whatsappUrl(event.ctaMessage ?? `Hola Terracielo, quiero consultar por ${event.name}.`)}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="mt-5 inline-flex text-sm font-bold uppercase tracking-[0.18em] text-soft-gold transition hover:text-cream"
+                >
+                  Consultar por WhatsApp
+                </a>
               </div>
             </article>
           ))}

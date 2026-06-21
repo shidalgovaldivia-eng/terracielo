@@ -1,5 +1,5 @@
 import { promotions } from "@/data/site";
-import { defaultReservationUrl } from "@/lib/links";
+import { defaultReservationUrl, whatsappUrl } from "@/lib/links";
 import { AnimatedSection } from "@/components/ui/animated-section";
 import { CtaButton } from "@/components/ui/cta-button";
 
@@ -21,7 +21,18 @@ export function PromotionsSection() {
             <article key={promotion.title} className="rounded-lg bg-black/28 p-5 premium-border">
               <p className="text-xs font-black uppercase tracking-[0.22em] text-neon-red">{promotion.badge}</p>
               <h3 className="mt-3 text-xl font-bold text-cream">{promotion.title}</h3>
+              {promotion.validity ? (
+                <p className="mt-2 text-xs font-bold uppercase tracking-[0.18em] text-soft-gold">{promotion.validity}</p>
+              ) : null}
               <p className="mt-2 text-sm leading-6 text-white/62">{promotion.description}</p>
+              <a
+                href={whatsappUrl(promotion.ctaMessage ?? `Hola Terracielo, quiero consultar por ${promotion.title}.`)}
+                target="_blank"
+                rel="noreferrer"
+                className="mt-5 inline-flex text-xs font-bold uppercase tracking-[0.18em] text-cream transition hover:text-soft-gold"
+              >
+                Consultar
+              </a>
             </article>
           ))}
         </div>
