@@ -45,7 +45,7 @@ export const navItems: NavItem[] = [
 ];
 
 export const heroImage: ImageAsset = {
-  src: "/images/terracielo/terraza-luces.jpg",
+  src: "/images/terracielo/1-Photo-1.jpg",
   alt: "Terraza nocturna de Terracielo Gastrobar con luces calidas"
 };
 
