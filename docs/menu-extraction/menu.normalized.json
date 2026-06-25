@@ -1,0 +1,5739 @@
+{
+  "extractedAt": "2026-06-25T16:22:42.608Z",
+  "source": {
+    "qrMenuUrl": "https://menu.fu.do/terracielosaboryvida/qr-menu",
+    "apiBase": "https://integrations.fu.do/fudo",
+    "apiKey": "terracielosaboryvida",
+    "app": "qr-menu"
+  },
+  "account": {
+    "name": "Terracielo sabor y vida",
+    "displayName": "Terracielo Sabor y Vida",
+    "currencySymbol": "$",
+    "countryCode": "cl",
+    "contact": {
+      "email": "TERRACIELOSABORYVIDA@GMAIL.COM",
+      "phone": 56958017106,
+      "whatsapp": 56958017106,
+      "address": "AV. Ramon Pérez Opazo #3122, Alto Hospicio."
+    },
+    "social": {
+      "facebook": "https://facebook.com/terracielogastrobar/",
+      "instagram": "https://instagram.com/terracielogastrobar/"
+    }
+  },
+  "summary": {
+    "categoryCount": 31,
+    "rootCategoryCount": 16,
+    "productCount": 305,
+    "availableProductCount": 305,
+    "unavailableProductCount": 0
+  },
+  "categories": [
+    {
+      "id": 30,
+      "name": "Barra Terracielo",
+      "parentId": null,
+      "position": 6250,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [
+        {
+          "id": 39,
+          "name": "1.Mojitos Tropical",
+          "parentId": 30,
+          "position": 1000000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": "¡Sumérgete en la frescura caribeña con nuestro Mojito Cubano! Una deliciosa mezcla de ron, hierbabuena recién cortada, jugo de lima y un toque de soda burbujeante. Perfecto para cualquier ocasión, este clásico cóctel te hará sentir como si estuvieras bailando en las vibrantes calles de La Habana. ¡Salud! 🍹",
+              "id": 339,
+              "name": "Mojito Cubano",
+              "position": 12200000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 39,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Déjate seducir por nuestro exótico Mojito Maracuyá! Una deliciosa fusión de ron, jugosa maracuyá, menta fresca y un toque de soda burbujeante. Este cóctel tropical te transportará a un paraíso de sabores vibrantes y refrescantes. Perfecto para darle un toque de alegría y color a tu día. ¡Cada sorbo es una fiesta! 🍹🌺",
+              "id": 340,
+              "name": "Mojito Maracuya",
+              "position": 16600000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 39,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Enamórate de nuestro tentador Mojito Arándano! Una refrescante mezcla de ron, jugosos arándanos, menta fresca y un toque de soda burbujeante. Este cóctel es perfecto para quienes buscan una explosión de sabor y color en cada sorbo. ¡Sorprendente, coqueto y absolutamente delicioso, no podrás resistirte a su encanto! 🍹💙",
+              "id": 341,
+              "name": "Mojito Arandano",
+              "position": 19400000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 39,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Sumérgete en el exotismo de nuestro Mojito Mango! Una deliciosa mezcla de ron, jugoso mango, menta fresca y un toque de soda burbujeante. Este cóctel, coqueto y refrescante, te transportará a un paraíso tropical con cada sorbo. ¡Dale un twist tropical a tu día y déjate llevar por su sabor irresistible! 🍹🥭",
+              "id": 343,
+              "name": "Mojito Mango",
+              "position": 19900000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 39,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Déjate cautivar por nuestro encantador Mojito Frutilla! Una deliciosa combinación de ron, fresas maduras, menta fresca y un toque de soda chispeante. Este cóctel, coqueto y refrescante, es ideal para añadir un toque de dulzura y diversión a tu día. ¡Cada sorbo es un guiño a la alegría y el sabor! 🍹🍓",
+              "id": 342,
+              "name": "Mojito Frutilla",
+              "position": 20600000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 39,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 346,
+              "name": "Mojito kiwi",
+              "position": 32400000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 39,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 353,
+              "name": "Mojito Piña",
+              "position": 33100000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 39,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 46,
+          "name": "2. Mojitos Terralove",
+          "parentId": 30,
+          "position": 1100000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": "¡Disfruta de la sofisticación con nuestro Mojito Ramazzotti! Una irresistible mezcla de Amaro Ramazzotti, menta fresca, jugo de lima y un toque de soda burbujeante. Este cóctel, coqueto y elegante, te envolverá en una experiencia de sabor única y deliciosa. ¡Perfecto para quienes buscan algo diferente y lleno de estilo! 🍹✨",
+              "id": 208,
+              "name": "Mojito Ramazzotti",
+              "position": 21900000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 46,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Dale un giro refrescante a tu día con nuestro Mojito Corona! Una vibrante combinación de cerveza Corona, menta fresca, jugo de lima y un toque de soda burbujeante. Este cóctel, coqueto y refrescante, es perfecto para los amantes de la cerveza que buscan algo diferente y divertido. ¡Cada sorbo es pura alegría y sabor! 🍹🍺",
+              "id": 201,
+              "name": "Mojito Corona",
+              "position": 22200000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 46,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Descubre el encanto del Mojito Irlandés en nuestro restaurante! Una mezcla única de whisky irlandés, menta fresca, jugo de lima y un toque de soda burbujeante. Este cóctel, coqueto y lleno de carácter, te transportará a los verdes campos de Irlanda con cada sorbo. ¡Una experiencia única que no te puedes perder! 🍀🥃",
+              "id": 269,
+              "name": "Mojito irlandes",
+              "position": 26600000,
+              "price": 8000,
+              "priceDelivery": 8000,
+              "pricePickup": 8000,
+              "productCategoryId": 46,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Descubre la magia de nuestro Mojito Absolute! Una seductora mezcla de vodka Absolut, menta fresca, jugo de lima y un toque de soda chispeante. Este cóctel es el compañero perfecto para una noche inolvidable, lleno de frescura y estilo. ¡Déjate conquistar por su sabor irresistible y brilla en cada sorbo! 🍸🌟",
+              "id": 299,
+              "name": "Mojito Absolut",
+              "position": 29000000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 46,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "¡Atrévete a probar nuestro Mojito Jagger! Una explosiva combinación de Jägermeister, menta fresca, jugo de lima y un toque de soda burbujeante que despertará tus sentidos. Perfecto para aquellos que buscan algo diferente y audaz, este cóctel te hará vibrar con cada sorbo. ¡No podrás resistirte a su encanto salvaje! 🍹✨",
+              "id": 303,
+              "name": "Mojito Jagger",
+              "position": 29200000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 46,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "name": "3. Schop",
+          "parentId": 30,
+          "position": 1200000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": "¡Salud y buenos momentos garantizados! 🍻",
+              "id": 316,
+              "name": "Schop Heineken 500 ml",
+              "position": 15500000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 36,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 317,
+              "name": "Schop Kunstmann Torobayo 500 ml",
+              "position": 22900000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 36,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 257,
+              "name": "SCHOPS AUSTRAL CALAFATE 500 ml",
+              "position": 25400000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 36,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "name": "4.Cervezas Botellin",
+          "parentId": 30,
+          "position": 1300000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 223,
+              "name": "Corona Botellin",
+              "position": 22300000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 222,
+              "name": "Heineken Botellin",
+              "position": 22400000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 255,
+              "name": "KUNSTMANN MIEL 500CC",
+              "position": 25200000,
+              "price": 4800,
+              "priceDelivery": 4800,
+              "pricePickup": 4800,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 256,
+              "name": "KUNSTMANN TOROBAYO 500 CC",
+              "position": 25300000,
+              "price": 4800,
+              "priceDelivery": 4800,
+              "pricePickup": 4800,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 258,
+              "name": "DOLBEK MAKI 330CC",
+              "position": 25500000,
+              "price": 3990,
+              "priceDelivery": 3990,
+              "pricePickup": 3990,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 337,
+              "name": "AUSTRAL CALAFATE BOTELLIN 500cc",
+              "position": 26500000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Budweiser 330 CC",
+              "id": 275,
+              "name": "Budweiser Botellin",
+              "position": 27600000,
+              "price": 3200,
+              "priceDelivery": 3200,
+              "pricePickup": 3200,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 345,
+              "name": "Sol Botellin",
+              "position": 32300000,
+              "price": 3000,
+              "priceDelivery": 3000,
+              "pricePickup": 3000,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 430,
+              "name": "Cerveza Valdivia",
+              "position": 39500000,
+              "price": 4800,
+              "priceDelivery": 4800,
+              "pricePickup": 4800,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 438,
+              "name": "Austral Patagonia Botellín 330",
+              "position": 40300000,
+              "price": 4000,
+              "priceDelivery": 4000,
+              "pricePickup": 4000,
+              "productCategoryId": 35,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "name": "5. Micheladas",
+          "parentId": 30,
+          "position": 1400000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": []
+        },
+        {
+          "id": 40,
+          "name": "6. Coctail Terracielo",
+          "parentId": 30,
+          "position": 1500000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 209,
+              "name": "Ron Habana 7 Años",
+              "position": 23200000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 210,
+              "name": "Johnnie Walker Red Label",
+              "position": 23300000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 244,
+              "name": "Pisco Sour",
+              "position": 24800000,
+              "price": 6000,
+              "priceDelivery": 6000,
+              "pricePickup": 6000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 260,
+              "name": "Jack Daniels Honey",
+              "position": 25700000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 266,
+              "name": "Ramazzoti",
+              "position": 26200000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 272,
+              "name": "Pisco Mistral Vaso 35º",
+              "position": 27200000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [
+                {
+                  "id": 6,
+                  "maxQuantity": 1,
+                  "minQuantity": 0,
+                  "name": "mostrador Bebida Mini 220",
+                  "productGroupProducts": [
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 217
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 403
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 199
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 250
+                    }
+                  ],
+                  "title": null,
+                  "priceAggregation": "MAX"
+                }
+              ],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 274,
+              "name": "RON BACARDI",
+              "position": 27500000,
+              "price": 5900,
+              "priceDelivery": 5900,
+              "pricePickup": 5900,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Coctel de origen italiano, el cual contiene una mezcla cuidadosa de espumante, aperol y soda. Es servido sobre una elegante copa de vino llena de hielo, acompañado de una rodaja de naranja.",
+              "id": 276,
+              "name": "Aperol",
+              "position": 27700000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Amarla",
+              "id": 294,
+              "name": "Amarula",
+              "position": 28300000,
+              "price": 6000,
+              "priceDelivery": 6000,
+              "pricePickup": 6000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Ron, Crema de Coco Lopez y Pulpa de Piña.",
+              "id": 295,
+              "name": "Piña Colada",
+              "position": 28400000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Ron, Crema de Coco Lopez y Pulpa de Piña y 01 Sabor de Fruta a elección",
+              "id": 296,
+              "name": "PIÑA TERRALOVER",
+              "position": 28600000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 302,
+              "name": "Ruso Negro",
+              "position": 29100000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "3 Shot de Tequila",
+              "id": 304,
+              "name": "Tequila Sombrero Negro",
+              "position": 29300000,
+              "price": 5000,
+              "priceDelivery": 5000,
+              "pricePickup": 5000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 305,
+              "name": "Tequila Margarita",
+              "position": 29400000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 307,
+              "name": "ABSOLUT BLUE",
+              "position": 29600000,
+              "price": 5900,
+              "priceDelivery": 5900,
+              "pricePickup": 5900,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Ron Habana Gran Reserva",
+              "id": 308,
+              "name": "Ron Habana Reserva",
+              "position": 29700000,
+              "price": 6000,
+              "priceDelivery": 6000,
+              "pricePickup": 6000,
+              "productCategoryId": 40,
+              "productGroups": [
+                {
+                  "id": 6,
+                  "maxQuantity": 1,
+                  "minQuantity": 0,
+                  "name": "mostrador Bebida Mini 220",
+                  "productGroupProducts": [
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 217
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 403
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 199
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 250
+                    }
+                  ],
+                  "title": null,
+                  "priceAggregation": "MAX"
+                }
+              ],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 320,
+              "name": "TROPICAL GIN",
+              "position": 30600000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 322,
+              "name": "Pisco Mistral Vaso 40º",
+              "position": 30800000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 328,
+              "name": "Gin Sapphire",
+              "position": 31500000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 329,
+              "name": "Gin Tanqueray lindon",
+              "position": 31600000,
+              "price": 7200,
+              "priceDelivery": 7200,
+              "pricePickup": 7200,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Dry 40° 750 cc",
+              "id": 331,
+              "name": "Gin Beefeater London",
+              "position": 31800000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Refrescante cocktail que combina trozos de limon de pica macerados y cachaza o Ron sobre hielo frappe",
+              "id": 332,
+              "name": "CAIPIRINHA",
+              "position": 31900000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 347,
+              "name": "Baileys",
+              "position": 32500000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 348,
+              "name": "Chivas Regal 12 Años HH",
+              "position": 32600000,
+              "price": 12000,
+              "priceDelivery": 12000,
+              "pricePickup": 12000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "03 cortos de tequilas al estilo terra hot con un toque de kalua y escénicas de la casa, decorados al nivel más hot con fuego",
+              "id": 350,
+              "name": "TEQUILA TERRA HOT",
+              "position": 32800000,
+              "price": 7900,
+              "priceDelivery": 7900,
+              "pricePickup": 7900,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 354,
+              "name": "Clavo Oxidado",
+              "position": 33200000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 355,
+              "name": "FERNET BRONCO",
+              "position": 33300000,
+              "price": 5500,
+              "priceDelivery": 5500,
+              "pricePickup": 5500,
+              "productCategoryId": 40,
+              "productGroups": [
+                {
+                  "id": 6,
+                  "maxQuantity": 1,
+                  "minQuantity": 0,
+                  "name": "mostrador Bebida Mini 220",
+                  "productGroupProducts": [
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 217
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 403
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 199
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 250
+                    }
+                  ],
+                  "title": null,
+                  "priceAggregation": "MAX"
+                }
+              ],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Pipeño, Granadina, Helado de piña y Espumante al estilo terracielo",
+              "id": 363,
+              "name": "Terremoto Terra",
+              "position": 33900000,
+              "price": 5000,
+              "priceDelivery": 5000,
+              "pricePickup": 5000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 376,
+              "name": "Whiskey Jack Daniel´s Old No 7",
+              "position": 34900000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Menta, Jager, fernet,",
+              "id": 378,
+              "name": "Bajativos",
+              "position": 35100000,
+              "price": 1500,
+              "priceDelivery": 1500,
+              "pricePickup": 1500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 390,
+              "name": "sheridans",
+              "position": 36300000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 395,
+              "name": "Malibu Sunrise",
+              "position": 36800000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 396,
+              "name": "Negroni",
+              "position": 36900000,
+              "price": 8900,
+              "priceDelivery": 8900,
+              "pricePickup": 8900,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 410,
+              "name": "RON SIERRA MORENA",
+              "position": 37900000,
+              "price": 5000,
+              "priceDelivery": 5000,
+              "pricePickup": 5000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 411,
+              "name": "Daiquiri",
+              "position": 38000000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 413,
+              "name": "Ron Abuelo",
+              "position": 38200000,
+              "price": 6000,
+              "priceDelivery": 6000,
+              "pricePickup": 6000,
+              "productCategoryId": 40,
+              "productGroups": [
+                {
+                  "id": 6,
+                  "maxQuantity": 1,
+                  "minQuantity": 0,
+                  "name": "mostrador Bebida Mini 220",
+                  "productGroupProducts": [
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 217
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 403
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 199
+                    },
+                    {
+                      "maxQuantity": 0,
+                      "price": 1000,
+                      "productId": 250
+                    }
+                  ],
+                  "title": null,
+                  "priceAggregation": "MAX"
+                }
+              ],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 423,
+              "name": "Tom Collins",
+              "position": 38900000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 428,
+              "name": "Pisco Sour Catedral",
+              "position": 39300000,
+              "price": 9500,
+              "priceDelivery": 9500,
+              "pricePickup": 9500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 433,
+              "name": "Jack Daniels Apple",
+              "position": 39800000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 434,
+              "name": "Jack Daniels Fire",
+              "position": 39900000,
+              "price": 7500,
+              "priceDelivery": 7500,
+              "pricePickup": 7500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 435,
+              "name": "Pisco Mal Paso",
+              "position": 40000000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 436,
+              "name": "Pisco Horcon Quemado",
+              "position": 40100000,
+              "price": 7000,
+              "priceDelivery": 7000,
+              "pricePickup": 7000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 437,
+              "name": "Pisco Mal Paso ICONO",
+              "position": 40200000,
+              "price": 8500,
+              "priceDelivery": 8500,
+              "pricePickup": 8500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 442,
+              "name": "Ron Habana Especial",
+              "position": 40700000,
+              "price": 6900,
+              "priceDelivery": 6900,
+              "pricePickup": 6900,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 471,
+              "name": "Johnnie Walker Black Label",
+              "position": 42100000,
+              "price": 8000,
+              "priceDelivery": 8000,
+              "pricePickup": 8000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 483,
+              "name": "Pisco Boul Legado  Reserva",
+              "position": 43300000,
+              "price": 8000,
+              "priceDelivery": 8000,
+              "pricePickup": 8000,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 484,
+              "name": "HH Pisco Mal Paso",
+              "position": 43400000,
+              "price": 11500,
+              "priceDelivery": 11500,
+              "pricePickup": 11500,
+              "productCategoryId": 40,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name": "7. HH Terralovers",
+          "parentId": 30,
+          "position": 1600000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 196,
+              "name": "Mojito Tropical HH",
+              "position": 21600000,
+              "price": 10000,
+              "priceDelivery": 10000,
+              "pricePickup": 10000,
+              "productCategoryId": 38,
+              "productGroups": [
+                {
+                  "id": 4,
+                  "maxQuantity": 2,
+                  "minQuantity": 0,
+                  "name": "PROMO HH MOJITOS",
+                  "productGroupProducts": [
+                    {
+                      "maxQuantity": 2,
+                      "price": 0,
+                      "productId": 341
+                    },
+                    {
+                      "maxQuantity": 2,
+                      "price": 0,
+                      "productId": 339
+                    },
+                    {
+                      "maxQuantity": 2,
+                      "price": 0,
+                      "productId": 342
+                    },
+                    {
+                      "maxQuantity": 2,
+                      "price": 0,
+                      "productId": 343
+                    },
+                    {
+                      "maxQuantity": 2,
+                      "price": 0,
+                      "productId": 340
+                    },
+                    {
+                      "maxQuantity": 2,
+                      "price": 0,
+                      "productId": 346
+                    },
+                    {
+                      "maxQuantity": 2,
+                      "price": 0,
+                      "productId": 353
+                    }
+                  ],
+                  "title": "PROMO HH MOJITOS",
+                  "priceAggregation": "MAX"
+                }
+              ],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 300,
+              "name": "Mojito Absolut HH",
+              "position": 22100000,
+              "price": 12000,
+              "priceDelivery": 12000,
+              "pricePickup": 12000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 254,
+              "name": "HH Corona Botellin 2x1",
+              "position": 22600000,
+              "price": 6000,
+              "priceDelivery": 6000,
+              "pricePickup": 6000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 313,
+              "name": "HH Johnnie Walker Black Label",
+              "position": 30300000,
+              "price": 15000,
+              "priceDelivery": 15000,
+              "pricePickup": 15000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 314,
+              "name": "HH Jack Daniels Honey",
+              "position": 30400000,
+              "price": 12000,
+              "priceDelivery": 12000,
+              "pricePickup": 12000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 326,
+              "name": "HH Schop Heineken",
+              "position": 31300000,
+              "price": 8000,
+              "priceDelivery": 8000,
+              "pricePickup": 8000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 327,
+              "name": "HH Schop kunstmann Torobayo",
+              "position": 31400000,
+              "price": 8000,
+              "priceDelivery": 8000,
+              "pricePickup": 8000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 349,
+              "name": "HH Mojito Ramazzotti",
+              "position": 32700000,
+              "price": 13000,
+              "priceDelivery": 13000,
+              "pricePickup": 13000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": false,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 356,
+              "name": "HH Johnnie Walker Red Label",
+              "position": 33400000,
+              "price": 13000,
+              "priceDelivery": 13000,
+              "pricePickup": 13000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 366,
+              "name": "HH SCHOPS AUSTRAL CALAFATE",
+              "position": 34100000,
+              "price": 9000,
+              "priceDelivery": 9000,
+              "pricePickup": 9000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 369,
+              "name": "HH Ron Habana Reserva",
+              "position": 34400000,
+              "price": 10500,
+              "priceDelivery": 10500,
+              "pricePickup": 10500,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 370,
+              "name": "HH CAIPIRINHA",
+              "position": 34500000,
+              "price": 9900,
+              "priceDelivery": 9900,
+              "pricePickup": 9900,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 372,
+              "name": "HH PISCO SOUR",
+              "position": 34600000,
+              "price": 10000,
+              "priceDelivery": 10000,
+              "pricePickup": 10000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 377,
+              "name": "HH Whiskey Jack Daniel´s Old No 7",
+              "position": 35000000,
+              "price": 12900,
+              "priceDelivery": 12900,
+              "pricePickup": 12900,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 381,
+              "name": "HH Ramazotti",
+              "position": 35500000,
+              "price": 11000,
+              "priceDelivery": 11000,
+              "pricePickup": 11000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 384,
+              "name": "HH Pisco Mistral 35º",
+              "position": 35800000,
+              "price": 11000,
+              "priceDelivery": 11000,
+              "pricePickup": 11000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 385,
+              "name": "HH Tropical GIN",
+              "position": 35900000,
+              "price": 12000,
+              "priceDelivery": 12000,
+              "pricePickup": 12000,
+              "productCategoryId": 38,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 44,
+          "name": "8. Vinos",
+          "parentId": 30,
+          "position": 1700000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 259,
+              "name": "Vino Late Harvest Copa",
+              "position": 25600000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Cops Casillero del diablo, Carmener reserva",
+              "id": 283,
+              "name": "Vino tinto casillero del diablo copa",
+              "position": 28000000,
+              "price": 4000,
+              "priceDelivery": 4000,
+              "pricePickup": 4000,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": false,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 291,
+              "name": "Misioneros de Rengo Botella",
+              "position": 28100000,
+              "price": 15500,
+              "priceDelivery": 15500,
+              "pricePickup": 15500,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 298,
+              "name": "Vino tinto misiones de rengo copa",
+              "position": 28900000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Botella 750cc",
+              "id": 309,
+              "name": "Casillero del Diablo Botella",
+              "position": 29900000,
+              "price": 20000,
+              "priceDelivery": 20000,
+              "pricePickup": 20000,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Copa Merlot",
+              "id": 323,
+              "name": "Toro de Piedra copa",
+              "position": 30900000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 351,
+              "name": "Vino Las Mulas Reserva 2022 Botella",
+              "position": 32900000,
+              "price": 16000,
+              "priceDelivery": 16000,
+              "pricePickup": 16000,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Vino Tinto Las Mulas Reserva 2022 Botella",
+              "id": 352,
+              "name": "Las Mulas Reserva",
+              "position": 33000000,
+              "price": 16000,
+              "priceDelivery": 16000,
+              "pricePickup": 16000,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 357,
+              "name": "Vino Las Mulas Copa",
+              "position": 33500000,
+              "price": 4000,
+              "priceDelivery": 4000,
+              "pricePickup": 4000,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 416,
+              "name": "Toro de Pierda Botella",
+              "position": 38600000,
+              "price": 20000,
+              "priceDelivery": 20000,
+              "pricePickup": 20000,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 441,
+              "name": "Botella Vino Blanco latte Harvest",
+              "position": 40600000,
+              "price": 13500,
+              "priceDelivery": 13500,
+              "pricePickup": 13500,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 482,
+              "name": "Sangre de Toro",
+              "position": 43200000,
+              "price": 3000,
+              "priceDelivery": 3000,
+              "pricePickup": 3000,
+              "productCategoryId": 44,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 45,
+          "name": "9. Botellón",
+          "parentId": 30,
+          "position": 1800000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": "Botella buchanans",
+              "id": 270,
+              "name": "Jack Daniels botella",
+              "position": 26700000,
+              "price": 60000,
+              "priceDelivery": 60000,
+              "pricePickup": 60000,
+              "productCategoryId": 45,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Botella Bacardi",
+              "id": 271,
+              "name": "Bacardi Botella",
+              "position": 27000000,
+              "price": 35000,
+              "priceDelivery": 35000,
+              "pricePickup": 35000,
+              "productCategoryId": 45,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 330,
+              "name": "Pisco Mistral Botella 35´",
+              "position": 31700000,
+              "price": 55000,
+              "priceDelivery": 55000,
+              "pricePickup": 55000,
+              "productCategoryId": 45,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 443,
+              "name": "REDLEBEL BOTELLA",
+              "position": 40800000,
+              "price": 50000,
+              "priceDelivery": 50000,
+              "pricePickup": 50000,
+              "productCategoryId": 45,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 200,
+          "name": "Michelada (Limón y Merquen)",
+          "position": 22800000,
+          "price": 1000,
+          "priceDelivery": 1000,
+          "pricePickup": 1000,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 267,
+          "name": "Pallmar XL Sunset",
+          "position": 26300000,
+          "price": 5000,
+          "priceDelivery": 5000,
+          "pricePickup": 5000,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 389,
+          "name": "ballantine¨s",
+          "position": 36200000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 391,
+          "name": "vodka black",
+          "position": 36400000,
+          "price": 4500,
+          "priceDelivery": 4500,
+          "pricePickup": 4500,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 392,
+          "name": "CAIPIROSKA",
+          "position": 36600000,
+          "price": 5500,
+          "priceDelivery": 5500,
+          "pricePickup": 5500,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 425,
+          "name": "MANGO SOUR",
+          "position": 39100000,
+          "price": 7500,
+          "priceDelivery": 7500,
+          "pricePickup": 7500,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 432,
+          "name": "Copa Casillero del Diablo",
+          "position": 39700000,
+          "price": 5000,
+          "priceDelivery": 5000,
+          "pricePickup": 5000,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 439,
+          "name": "Limón extra",
+          "position": 40400000,
+          "price": 1000,
+          "priceDelivery": 1000,
+          "pricePickup": 1000,
+          "productCategoryId": 30,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Para Refrescar",
+      "parentId": null,
+      "position": 9375,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [
+        {
+          "id": 29,
+          "name": "Bebidas",
+          "parentId": 18,
+          "position": 2100000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 220,
+              "name": "Coca- Cola  1.5 L",
+              "position": 10500000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 252,
+              "name": "Coca-Cola  Zero 1.5 L",
+              "position": 13700000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Lata 350 cc",
+              "id": 169,
+              "name": "Coca Cola 350cc",
+              "position": 18300000,
+              "price": 1600,
+              "priceDelivery": 1600,
+              "pricePickup": 1600,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Lata 350 cc",
+              "id": 170,
+              "name": "Coca Cola Zero 350 cc",
+              "position": 18400000,
+              "price": 1600,
+              "priceDelivery": 1600,
+              "pricePickup": 1600,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "Lata 220 ml",
+              "id": 217,
+              "name": "Coca Cola Mini 220 cc",
+              "position": 18700000,
+              "price": 1000,
+              "priceDelivery": 1000,
+              "pricePickup": 1000,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 403,
+              "name": "Coca Cola Mini Zero 220 cc",
+              "position": 18900000,
+              "price": 1000,
+              "priceDelivery": 1000,
+              "pricePickup": 1000,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 250,
+              "name": "Fanta Mini 220 ml",
+              "position": 19000000,
+              "price": 1000,
+              "priceDelivery": 1000,
+              "pricePickup": 1000,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 199,
+              "name": "Sprite Mini 220 cc",
+              "position": 19200000,
+              "price": 1000,
+              "priceDelivery": 1000,
+              "pricePickup": 1000,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "350cc",
+              "id": 181,
+              "name": "Pepsi 350 cc",
+              "position": 19600000,
+              "price": 1500,
+              "priceDelivery": 1500,
+              "pricePickup": 1500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "350cc",
+              "id": 173,
+              "name": "Bilz (Lata 350 cc)",
+              "position": 19800000,
+              "price": 1500,
+              "priceDelivery": 1500,
+              "pricePickup": 1500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "(Lata 350 cc)",
+              "id": 174,
+              "name": "Pap (Lata 350 cc)",
+              "position": 20000000,
+              "price": 1500,
+              "priceDelivery": 1500,
+              "pricePickup": 1500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "",
+              "id": 177,
+              "name": "Agua Porvenir C/G",
+              "position": 20100000,
+              "price": 2100,
+              "priceDelivery": 2100,
+              "pricePickup": 2100,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 251,
+              "name": "Agua Benedictino Sin Gas",
+              "position": 26800000,
+              "price": 1700,
+              "priceDelivery": 1700,
+              "pricePickup": 1700,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 204,
+              "name": "KEM",
+              "position": 26900000,
+              "price": 1300,
+              "priceDelivery": 1300,
+              "pricePickup": 1300,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 183,
+              "name": "Agua Benedictino C/G",
+              "position": 27100000,
+              "price": 1700,
+              "priceDelivery": 1700,
+              "pricePickup": 1700,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 206,
+              "name": "Cachantun Strong Negra",
+              "position": 27300000,
+              "price": 1500,
+              "priceDelivery": 1500,
+              "pricePickup": 1500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "",
+              "id": 344,
+              "name": "Canada Dry Tonica",
+              "position": 32100000,
+              "price": 1500,
+              "priceDelivery": 1500,
+              "pricePickup": 1500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 470,
+              "name": "Cachantun con Gas",
+              "position": 42000000,
+              "price": 1100,
+              "priceDelivery": 1100,
+              "pricePickup": 1100,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 472,
+              "name": "Fanta 1.5 Lts",
+              "position": 42200000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 29,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Jugos Naturales",
+          "parentId": 18,
+          "position": 3200000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 87,
+              "name": "Jugo Mango",
+              "position": 4600000,
+              "price": 3900,
+              "priceDelivery": 3900,
+              "pricePickup": 3900,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 79,
+              "name": "Jugo Arándano",
+              "position": 5200000,
+              "price": 4200,
+              "priceDelivery": 4200,
+              "pricePickup": 4200,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 185,
+              "name": "Jugo Maracuya",
+              "position": 6600000,
+              "price": 4200,
+              "priceDelivery": 4200,
+              "pricePickup": 4200,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 77,
+              "name": "Jugo de Piña",
+              "position": 7500000,
+              "price": 3900,
+              "priceDelivery": 3900,
+              "pricePickup": 3900,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 80,
+              "name": "Jugo Frutilla",
+              "position": 9000000,
+              "price": 3900,
+              "priceDelivery": 3900,
+              "pricePickup": 3900,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 192,
+              "name": "Jugo KIWI",
+              "position": 9600000,
+              "price": 3800,
+              "priceDelivery": 3800,
+              "pricePickup": 3800,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 105,
+              "name": "Limonada",
+              "position": 10200000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 153,
+              "name": "Jugo Mango Frutilla",
+              "position": 10700000,
+              "price": 4600,
+              "priceDelivery": 4600,
+              "pricePickup": 4600,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 182,
+              "name": "Mix de Maracuya Piña",
+              "position": 11000000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 76,
+              "name": "Jugo Mango leche",
+              "position": 11200000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 78,
+              "name": "Jugo frutilla con leche",
+              "position": 11300000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 81,
+              "name": "Jarra de Limonada Menta Jengibre",
+              "position": 21500000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 324,
+              "name": "Jugo Frutos Rojos (Arandano Frutilla)",
+              "position": 31000000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 398,
+              "name": "Jugo de Melon 🍈",
+              "position": 37100000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 399,
+              "name": "Jugo Mango Maracuya",
+              "position": 37200000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 440,
+              "name": "Platano con Leche",
+              "position": 40500000,
+              "price": 4300,
+              "priceDelivery": 4300,
+              "pricePickup": 4300,
+              "productCategoryId": 19,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        }
+      ],
+      "products": []
+    },
+    {
+      "id": 10,
+      "name": "Arma tu Plato, Carne mas Guarnición a Elección",
+      "parentId": null,
+      "position": 100000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [
+        {
+          "id": 11,
+          "name": "Guarniciones de la casa",
+          "parentId": 10,
+          "position": 2800000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": "TRADICIONAL RECETA SUREÑA",
+              "id": 133,
+              "name": "Pastelera Choclo",
+              "position": 2800000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "PURE DE PAPA NATURAL ACOMPAÑADO CON  ZAPALLO ITALIANO, ZANAHORIA Y PIMENTON AHUMADOS.",
+              "id": 134,
+              "name": "Puré Campestre",
+              "position": 4300000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "CON SAZÓN A ELECCIÓN, MERQUÉN, LIMÓN, ROMERO O SAL DE MAR Y UNA SALSA DE LA CASA.",
+              "id": 136,
+              "name": "Papas Rústicas",
+              "position": 5400000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 89,
+              "name": "Papas Fritas",
+              "position": 6300000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "CON EMULSIÓN DE PARMESANO, VINO BLANCO Y CAFÉ.",
+              "id": 64,
+              "name": "Risotto Cafeinado",
+              "position": 6400000,
+              "price": 6900,
+              "priceDelivery": 6900,
+              "pricePickup": 6900,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "TRADICIONAL RISOTTO CON NOTAS CÍTRICAS, PARMESANO Y VINO BLANCO.",
+              "id": 65,
+              "name": "Risotto al Limón",
+              "position": 6900000,
+              "price": 6900,
+              "priceDelivery": 6900,
+              "pricePickup": 6900,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": "TRADICIONAL RISOTTO DE CHAMPIÑONES.",
+              "id": 66,
+              "name": "Risotto de setas",
+              "position": 7100000,
+              "price": 6900,
+              "priceDelivery": 6900,
+              "pricePickup": 6900,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 219,
+              "name": "Arroz Perla",
+              "position": 15600000,
+              "price": 2500,
+              "priceDelivery": 2500,
+              "pricePickup": 2500,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 224,
+              "name": "Arroz Perla y Papa Frita",
+              "position": 23400000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 321,
+              "name": "Arroz Chaufa Peruano",
+              "position": 30700000,
+              "price": 5000,
+              "priceDelivery": 5000,
+              "pricePickup": 5000,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 429,
+              "name": "Ensalada Surtida",
+              "position": 39400000,
+              "price": 6500,
+              "priceDelivery": 6500,
+              "pricePickup": 6500,
+              "productCategoryId": 11,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        }
+      ],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "CARNE VACUNO, PULPA DE CERDO, CHULETA VETADA, PECHUGA DE POLLO, PRIETAS, LONGANIZAS, CHORIZO, PAPAS RÚSTICAS + 1 GUARNICION A ELECCION Y SALSAS A ELECCIÓN.",
+          "id": 90,
+          "name": "PARRILLADA TERRACIELO, PARA 2 O 3 PERSONAS",
+          "position": 700000,
+          "price": 34900,
+          "priceDelivery": 34900,
+          "pricePickup": 34900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "MEDALLÓN DE 250 GRS DE FILETE GRILLADO CON NOTAS AHUMADAS Y CHIMICHURRI ARGENTINO MONTADO SOBRE UNA CAMA DE TOMATE Y CEBOLLA SALTEADOS",
+          "id": 315,
+          "name": "Filete de Res",
+          "position": 800000,
+          "price": 18900,
+          "priceDelivery": 18900,
+          "pricePickup": 18900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "250 Gr de ENTRAÑA, CORONADA CON CHIMICHURRI ARGENTINO,  NOTAS DE COMINO, AJO , CEBOLLA Y PEREJIL + 01 GUARNICION A ELECCION",
+          "id": 52,
+          "name": "Entraña Grillada",
+          "position": 1000000,
+          "price": 14900,
+          "priceDelivery": 14900,
+          "pricePickup": 14900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "TOQUES DE VINO TINTO, ROMERO Y AJO CONFITADO + GUARNICION A ELECCION",
+          "id": 51,
+          "name": "Lomo Vetado al Romero y Vino tinto",
+          "position": 1300000,
+          "price": 13500,
+          "priceDelivery": 13500,
+          "pricePickup": 13500,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "250 GR DE LOMO VETADO ACOMPAÑADO DE CEBOLLA CARAMELIZADA Y HUEVO + UNA GUARNICIÓN A ELECCIÓN",
+          "id": 361,
+          "name": "Lomo Vetado a lo Pobre",
+          "position": 1400000,
+          "price": 14000,
+          "priceDelivery": 14000,
+          "pricePickup": 14000,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 448,
+          "name": "Lomo Liso a lo Pobre",
+          "position": 1500000,
+          "price": 13900,
+          "priceDelivery": 13900,
+          "pricePickup": 13900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "TIERNO CORTE DE 250 GR DE LOMO LISO CORONADO CON UNA DELICIOSO CHIMICHURRI ARGENTINO AHUMADO AL ESTILO TERRACIELO.",
+          "id": 362,
+          "name": "Lomo Liso con Chimichurri Argentino",
+          "position": 1600000,
+          "price": 14000,
+          "priceDelivery": 14000,
+          "pricePickup": 14000,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "TIERNOS CORTES DE LOMO VETADO SALTEADO AL ESTILO PERUANO CON TOMATE, CEBOLLA, MORRON, CILANTRO + GUARNICION A ELECCION.",
+          "id": 55,
+          "name": "Lomo Saltado",
+          "position": 1800000,
+          "price": 13500,
+          "priceDelivery": 13500,
+          "pricePickup": 13500,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "SUPREMA DE POLLO GRILLADO CON BASE DE MANTEQUILLA AL AJO CARAMELIZADO + GUARNICION A ELECCION",
+          "id": 54,
+          "name": "Suprema de Pollo Grillado",
+          "position": 1900000,
+          "price": 12900,
+          "priceDelivery": 12900,
+          "pricePickup": 12900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Filete de Reineta a la plancha sazonado con mantequilla orégano ajo y notas de romero montado sobre una cama de Tomate saltado al Wok + 1 Guarnición a elección.",
+          "id": 286,
+          "name": "Reineta a la Plancha",
+          "position": 2000000,
+          "price": 13900,
+          "priceDelivery": 13900,
+          "pricePickup": 13900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "MEDALLON DE ALBACORA 250 RG",
+          "id": 288,
+          "name": "ALBACORA FRITA, CHICHARRON O A LA PLANCHA",
+          "position": 2200000,
+          "price": 13900,
+          "priceDelivery": 13900,
+          "pricePickup": 13900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "MEDALLÓN DE ATÚN EN COSTRA DE SÉSAMO Y NOTAS DE JENGIBRE. + GUARNICION A ELECCION",
+          "id": 53,
+          "name": "Atún tataki",
+          "position": 2300000,
+          "price": 15900,
+          "priceDelivery": 15900,
+          "pricePickup": 15900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "FILETE DE REINETA CRUJIENTE POR FUERA, SUAVE Y JUGOSO POR DENTRO, ACOMPAÑADO DE UNA DELICADA SALSA DE AJÍ VERDE Y CILANTRO. UN SABOR QUE TE TRANSPORTA DIRECTAMENTE A LA COSTA CHILENA + UNA GUARNICIÓN A ELECCIÓN",
+          "id": 287,
+          "name": "CHICHARRON DE REINETA",
+          "position": 2500000,
+          "price": 14900,
+          "priceDelivery": 14900,
+          "pricePickup": 14900,
+          "productCategoryId": 10,
+          "productGroups": [
+            {
+              "id": 2,
+              "maxQuantity": 1,
+              "minQuantity": 1,
+              "name": "Guarniciones",
+              "productGroupProducts": [
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 133
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 134
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 135
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 136
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 64
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 65
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 66
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 67
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 89
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 219
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 224
+                },
+                {
+                  "maxQuantity": 1,
+                  "price": 0,
+                  "productId": 429
+                }
+              ],
+              "title": null,
+              "priceAggregation": "SUM"
+            }
+          ],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Recomendación del Chef",
+      "parentId": null,
+      "position": 200000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "CEVICHE CON PESCADO DEL DIA , CEBOLLA MORADA, PULPO, CAMARON, PALTA EN CUBO, LECHE DE TIGRE, MANGO, CILANTRO,  CHIPS DE CAMOTES Y AROS DE ROCOTO. ACOMPAÑADO CON SALSA AGRI DULCE A ELECCION.",
+          "id": 46,
+          "name": "Ceviche Nikkei",
+          "position": 200000,
+          "price": 14900,
+          "priceDelivery": 14900,
+          "pricePickup": 14900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "TRADICIONAL CEVICHE ESTILO PERUANO HECHO CON PESCADO DEL DIA, CEBOLLA MORADA, CILANTRO, SAZONADO CON LECHE DE TIGRE, ACOMPAÑADO DE  ROCOTO, CANCHITA TOSTADA, CHOCLO PERUANO Y CHIPS DE CAMOTE.",
+          "id": 47,
+          "name": "Ceviche Peruano",
+          "position": 300000,
+          "price": 13900,
+          "priceDelivery": 13900,
+          "pricePickup": 13900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Refrescante Leche de tigre acompañado de unos pequeños Trozos de pescado presentado como un abrebocas para comenzar con tu siguiente plato.",
+          "id": 167,
+          "name": "Leche de Tigre en Copa",
+          "position": 500000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "CHICHARRON DE CAMARON CON PAPAS RUSTICAS AL ROMERO Y SALSA ACEVICHADA",
+          "id": 290,
+          "name": "CHICHARRON DE CAMARON",
+          "position": 600000,
+          "price": 15900,
+          "priceDelivery": 15900,
+          "pricePickup": 15900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "LIBRILLO DE OSTIONES A LA PARMESANA SOBRE CEBOLLAS ASADAS, ACOMPAÑADO DE CREMA PARMESANA AL LIMÓN Y VINO BLANCO ACOMPAÑADO DE UNA SALSA ACEVICHADA Y CREMA DE ROCOTO AHUMADO.",
+          "id": 261,
+          "name": "Ostiones a la Parmesana",
+          "position": 900000,
+          "price": 13900,
+          "priceDelivery": 13900,
+          "pricePickup": 13900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "LIBRILLO DE MACHAS A LA PARMESANA SOBRE CEBOLLAS ASADAS, ACOMPAÑADO DE CREMA PARMESANA AL LIMÓN Y VINO BLANCO ACOMPAÑADO DE UNA SALSA ACEVICHADA Y CREMA DE ROCOTO AHUMADO.",
+          "id": 49,
+          "name": "Machas a la Parmesana",
+          "position": 1100000,
+          "price": 16900,
+          "priceDelivery": 16900,
+          "pricePickup": 16900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 289,
+          "name": "CHUPE DE MARISCO",
+          "position": 7600000,
+          "price": 11900,
+          "priceDelivery": 11900,
+          "pricePickup": 11900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "TRADICIONAL PASTEL DE JAIBA CON DÚO DE QUESOS GRATINADOS Y NOTAS DE PIMIENTOS ASADOS.",
+          "id": 68,
+          "name": "Pastel de Jaiba",
+          "position": 7700000,
+          "price": 12100,
+          "priceDelivery": 12100,
+          "pricePickup": 12100,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Esta deliciosa preparación reúne lo más fresco de nuestras costas: Mix de mariscos, ostiones, calamares, camarones y pescados de temporada, cocidos en un sabroso caldo con cebollas, ajo, vino blanco y especias de la casa.",
+          "id": 388,
+          "name": "Paila Marina",
+          "position": 7800000,
+          "price": 15900,
+          "priceDelivery": 15900,
+          "pricePickup": 15900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Reineta frita o a la plancha, acompañada de una salsa margarita con mix de mariscos, arroz perla y papas fritas",
+          "id": 285,
+          "name": "REINETA CON SALSA MARGARITA",
+          "position": 7900000,
+          "price": 13900,
+          "priceDelivery": 13900,
+          "pricePickup": 13900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "PASTA ARTESANAL DE LA CASA BAÑADO CON SALSA BECHAMEL AL VINO, SURTIDO DE MARISCOS, CAMARÓN,  OSTIÓN Y LAMINAS DE PULPO.",
+          "id": 70,
+          "name": "Fetuccini Di Mari",
+          "position": 8000000,
+          "price": 12500,
+          "priceDelivery": 12500,
+          "pricePickup": 12500,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "PASTA ARTESANAL DE LA CASA CON TOCINO PARMESANO Y HUEVO  ACOMPAÑADO DE UNA SUPREMA DE POLLO GRILLADO Y NOTAS DE PESTO.",
+          "id": 215,
+          "name": "Fetuccini a la Carbonara Con Pollo Grillado",
+          "position": 8100000,
+          "price": 11900,
+          "priceDelivery": 11900,
+          "pricePickup": 11900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "PASTA ARTESANAL HECHA EN EL MOMENTO ACOMPAÑADA CON UNA DELICIOSA SALSA HUANCAHINA DE LA CASA Y CON JUGOSIO MEDALLON DE POLLO GRILLADO",
+          "id": 394,
+          "name": "FETUCCINI A LA HUANCAHINA CON FILETE DE POLLO AL GRILLE",
+          "position": 8200000,
+          "price": 14900,
+          "priceDelivery": 14900,
+          "pricePickup": 14900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Imagina unos ñoquis suaves y esponjosos, bañados en una sedosa salsa pesto, con el aroma fresco de la albahaca y un toque de parmesano fundiéndose en cada bocado. Ahora súmale tiernos trozos de lomo saltado, jugosos y llenos de sabor, salteados al punto perfecto con un toque ahumado y especiado. Una combinación inesperada, intensa y absolutamente deliciosa. ¿Listo para rendirte a esta explosión de sabores? 😏🔥",
+          "id": 402,
+          "name": "Ñoquis di Pesto con Lomo Saltado",
+          "position": 8300000,
+          "price": 15900,
+          "priceDelivery": 15900,
+          "pricePickup": 15900,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "CLASICO PASTEL DE CHOCLO RELLENO CON CEBOLLA CARAMELIZADA, TROZOS DE CARNE NOTAS DE ALBAHACA, HUEVO DURO, ACEITUNA DE AZAPA, GRATINADO DULCE  ACOMPAÑADO CON TOMATES SALTEADOS.",
+          "id": 227,
+          "name": "Pastel de Choclo",
+          "position": 8500000,
+          "price": 8500,
+          "priceDelivery": 8500,
+          "pricePickup": 8500,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Ensalada Mixta acompañada de cubitos de pechuga flambeadas con sazón ahumado",
+          "id": 111,
+          "name": "Ensalada Cesar",
+          "position": 13600000,
+          "price": 7500,
+          "priceDelivery": 7500,
+          "pricePickup": 7500,
+          "productCategoryId": 12,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Menu Kids",
+      "parentId": null,
+      "position": 300000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "Bebida Refrescante con Sprite, Delfines Masticables, Hierba Buena, y un toque de Gatorade.",
+          "id": 132,
+          "name": "Para Refrescar una Pecera",
+          "position": 1700000,
+          "price": 3900,
+          "priceDelivery": 3900,
+          "pricePickup": 3900,
+          "productCategoryId": 26,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "RICAS PAPAS FRITAS ACOMPAÑADAS DE BASTONCITOS DE POLLO BROSTER Y UN MIX DE SALSAS COLORIDAS",
+          "id": 130,
+          "name": "Bastoncitos Crocantes",
+          "position": 3600000,
+          "price": 4500,
+          "priceDelivery": 4500,
+          "pricePickup": 4500,
+          "productCategoryId": 26,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "ARROZ PERLA ACOMPAÑADO CON HUEVO FRITO Y PULPITOS DE VIENESA",
+          "id": 234,
+          "name": "El Clasico",
+          "position": 6500000,
+          "price": 3000,
+          "priceDelivery": 3000,
+          "pricePickup": 3000,
+          "productCategoryId": 26,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "TORRE DE PAPAS FRITAS AL ESTILO YENGA ACOMPAÑADOS DE BALONES DE COLIFLOR APANADOS EN PANCO",
+          "id": 233,
+          "name": "Jenga de Papas Fritas",
+          "position": 8700000,
+          "price": 4500,
+          "priceDelivery": 4500,
+          "pricePickup": 4500,
+          "productCategoryId": 26,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Postres Terracielo",
+      "parentId": null,
+      "position": 400000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "cheesecake, Durasno, Frutos rojos o Maracuya",
+          "id": 154,
+          "name": "Cheesecake",
+          "position": 16400000,
+          "price": 2500,
+          "priceDelivery": 2500,
+          "pricePickup": 2500,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Delicioso Helado Vainilla y Chocolate Envuelto por un Panque Preparado al Instante Bañado en Chantilly y  Salsa de Chocolate.",
+          "id": 155,
+          "name": "Terra Volcan",
+          "position": 16500000,
+          "price": 5000,
+          "priceDelivery": 5000,
+          "pricePickup": 5000,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Deliciosa Copa de helado con una Base de Frutas de la Temporada, Crema Chantilly, Bañado en Salsa de Chocolate y Decorado con  Galletas obleas",
+          "id": 245,
+          "name": "Copa de Helado",
+          "position": 24900000,
+          "price": 5500,
+          "priceDelivery": 5500,
+          "pricePickup": 5500,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Déjate seducir por la fusión perfecta de sabores en nuestro Panque relleno con frutas y Helado de vainilla,  con un sutil toque de licor de café, bañado con Crema Chantilli y un irresistible licor de chocolate. Cada bocado es un viaje entre dulzura y carácter, ideal para los amantes de los placeres intensos. ¿Te atreves a probarlo? 😏✨",
+          "id": 401,
+          "name": "Postre Sabor y Vida",
+          "position": 37300000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Deliciosas donas cubiertas con glaseado de chocolate, frutilla caramelo.",
+          "id": 473,
+          "name": "Dona Grande Cubierta con Glaseado",
+          "position": 42300000,
+          "price": 1500,
+          "priceDelivery": 1500,
+          "pricePickup": 1500,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 474,
+          "name": "Mix Donas Mini Sabores",
+          "position": 42400000,
+          "price": 2500,
+          "priceDelivery": 2500,
+          "pricePickup": 2500,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 475,
+          "name": "CROISSANT RELLENO MANJAR 2 UN",
+          "position": 42500000,
+          "price": 1250,
+          "priceDelivery": 1250,
+          "pricePickup": 1250,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 476,
+          "name": "MEDIALUNA 2 un 45gr",
+          "position": 42600000,
+          "price": 1250,
+          "priceDelivery": 1250,
+          "pricePickup": 1250,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 485,
+          "name": "Cupcace",
+          "position": 43500000,
+          "price": 1500,
+          "priceDelivery": 1500,
+          "pricePickup": 1500,
+          "productCategoryId": 27,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Tablas",
+      "parentId": null,
+      "position": 500000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "Trilogía de quesadillas (Pollo, Carne y Verduras), 03 Trutitos BBQ, 03 Trutitos a la  mostaza, 02 Brochetas de Carne, 02 Brochetas de pollo, 02 Brochetas de Chorizo Pimentón, 02 brochetas de Zapallo Italiano grillados, 02 canastillas de papas fritas y salsa a elección",
+          "id": 242,
+          "name": "Tabla Entre amigos",
+          "position": 24700000,
+          "price": 24500,
+          "priceDelivery": 24500,
+          "pricePickup": 24500,
+          "productCategoryId": 47,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Tabla acompañada de una trilogía de quesadillas rellenas con Carne (2) Pollo (2) Verduras (2), 3 canastitas de papas fritas, 3 trutitos a la mostaza y 3 Trutitos BBQ, trilogía de Brochetas Una de Carne, Una de Pollo, Una Chicharrón de Camarón y una Chicharrón de Pescado del día + 3 salsas de la Casa",
+          "id": 380,
+          "name": "Tabla Terramar",
+          "position": 35300000,
+          "price": 28000,
+          "priceDelivery": 28000,
+          "pricePickup": 28000,
+          "productCategoryId": 47,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "4 mini Ceviches al estilo Peruano, Chicharron de Reineta, Chicharron de Camarón, Aros de Calamar apanados en Panco, Leche de Tigre al estilo Terracielo, Chips de Camote, Canchitas, + 2 Porción de Papas Rústicas al oregano y Romero.",
+          "id": 409,
+          "name": "Tabla Marina",
+          "position": 37800000,
+          "price": 30900,
+          "priceDelivery": 30900,
+          "pricePickup": 30900,
+          "productCategoryId": 47,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "1 Brocheta de Carne, una brocheta de pollo, 1 Brocheta de Cerdo, 1 Brocheta Vegetariana, 2 Canastillas de papas, 5 empánadas de pastel de choclo, 5 empanadas de pino, 10 sopaipillas y salsas de la casa",
+          "id": 431,
+          "name": "Tabla sureña",
+          "position": 39600000,
+          "price": 31900,
+          "priceDelivery": 31900,
+          "pricePickup": 31900,
+          "productCategoryId": 47,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Canastas",
+      "parentId": null,
+      "position": 600000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "CANASTA DE PAPAS FRITAS, AROS DE CEBOLLA, CUBIERTA DE CARNE SALTEADA CON PIMENTON Y CEBOLLA MORADA, SALSA DE QUESO CHEDDAR Y CEBOLLIN + 4 BROCHETAS DE POLLO",
+          "id": 92,
+          "name": "Canastas Terra",
+          "position": 12400000,
+          "price": 10900,
+          "priceDelivery": 10900,
+          "pricePickup": 10900,
+          "productCategoryId": 14,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "PAPAS FRITAS, ACOMPAÑADAS DE CARNE, LONGANIZA Y TOCINO SALTEADO CON  CEBOLLA Y HOJAS DE CEBOLLIN + 4 BROCHETAS DE CHORIZOS CON VERDURAS Y SALSA  QUESO CHEDDAR.",
+          "id": 143,
+          "name": "Canasta Cielo",
+          "position": 12500000,
+          "price": 10900,
+          "priceDelivery": 10900,
+          "pricePickup": 10900,
+          "productCategoryId": 14,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "PAPAS FRITAS, ACOMPAÑADAS CON POLLO, CHAMPIÑÓN, SALSA BLANCA, PEPINILLOS AGRIDULCES, 04 BROCHETAS DE POLLO APANADO Y SALSA DE QUESO CHEDAR.",
+          "id": 144,
+          "name": "Canasta Sabor",
+          "position": 12600000,
+          "price": 10900,
+          "priceDelivery": 10900,
+          "pricePickup": 10900,
+          "productCategoryId": 14,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "PAPAS FRITAS, ACOMPAÑADAS CON UN MIX DE VERDURAS SALTEADAS, CHAMPIÑON, TOMATE, SALSA BLANCA , AROS DE ACEITUNAS, PEPINILLOS AGRIDULCES ENCURTIDO DE REPOLLO MORADO, NOTAS DE PESTO + 4 BROCHETAS VEGETARIANAS.",
+          "id": 145,
+          "name": "Canasta Vida",
+          "position": 12700000,
+          "price": 10900,
+          "priceDelivery": 10900,
+          "pricePickup": 10900,
+          "productCategoryId": 14,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "900 GR PAPAS RUSTICAS, CARNE, POLLO, SALTEADA CON  CEBOLLA , CHORIZO, VIANESA, CEBOLLIN, PIMENTON,  AROS DE ACEITUNA, 2 HUEVO FRITOS Y 02 BROCHETAS DE CHORIZO AHUMADO.",
+          "id": 225,
+          "name": "Chorrillana Terra Cerdos",
+          "position": 12800000,
+          "price": 15900,
+          "priceDelivery": 15900,
+          "pricePickup": 15900,
+          "productCategoryId": 14,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Terra Burguers",
+      "parentId": null,
+      "position": 700000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA ARTESANAL, CEBOLLA CARAMELIZADA, QUESO CHEDAR, CHIPS DE TOCINO, PEPINILLOS, LECHUGA, TOMATE, ACOMPAÑADA DE UNA CANASTA PERSONAL DE PAPAS FRITAS Y UNA SALSA A ELECCION.",
+          "id": 236,
+          "name": "Hamburguesa Terra",
+          "position": 7000000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA DE LA CASA, QUESO CHÉDAR, CEBOLLA CARAMELIZADA, PEPINILLOS Y LECHUGA .",
+          "id": 147,
+          "name": "Hamburguesa Cielo",
+          "position": 11800000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA ARTESANAL DE LA CASA SALTEADA CON CEBOLLA MORADA, TOMATE, PIMENTON, ROCOTO A ELECCION Y 200 Gr PAPAS FRITAS.",
+          "id": 226,
+          "name": "Hamburguesa Sabor",
+          "position": 12300000,
+          "price": 9800,
+          "priceDelivery": 9800,
+          "pricePickup": 9800,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA ARTESANAL DE LA CASA, TOCINO, AROS DE CEBOLLA, HUEVO FRITO, BAÑADA CON QUESO FUNDIDO Y UNA SALSA A ELECCIÓN",
+          "id": 104,
+          "name": "Hamburguesa Vida",
+          "position": 12900000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA ARTESANAL DE LA CASA, TOMATE, PALTA LAMINADA, LECHUGA Y SALSA ALIOLI",
+          "id": 146,
+          "name": "Hamburguesa Italiana",
+          "position": 15700000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA ARTESANAL  DE LA CASA, CEBOLLA CARAMELIZADA, QUESO CHEDAR, CHIPS DE TOCINO, LECHUGA, TOMATE, BAÑADA CON QUESO, PIMENTON Y SALAME AHUMADO.",
+          "id": 325,
+          "name": "Hamburguesa Terra Napoles",
+          "position": 31100000,
+          "price": 10500,
+          "priceDelivery": 10500,
+          "pricePickup": 10500,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA ARTESANAL  DE LA CASA, QUESO CHEDAR, LAMINAS DE TOCINO, CEBOLLA CARAMELIZADA, HUEVO FRITO, 3 AROS DE CEBOLLA",
+          "id": 450,
+          "name": "Hamburguesa Terra American",
+          "position": 36500000,
+          "price": 10900,
+          "priceDelivery": 10900,
+          "pricePickup": 10900,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "HAMBURGUESA ARTESANAL  DE LA CASA, LAMINAS DE CHORIZO, QUESO CHEDAR, LECHUGA, TOMATE,  CEBOLLA CARAMELIZADA, PEPINILLO ARTESANAL y JALAPEÑO A ELECCIÓN.",
+          "id": 449,
+          "name": "Hamburguesa Terra Mexicana",
+          "position": 41300000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "2 HAMBURGUESAS ARTESANALES MONTADAS EN 3 PISOS  DE PAN , CEBOLLA CARAMELIZADA, QUESO CHEDAR, CHIPS DE TOCINO, PEPINILLOS, LECHUGA, TOMATE Y UNA SALSA A ELECCION",
+          "id": 148,
+          "name": "Hamburguesa Terra XXL",
+          "position": 41400000,
+          "price": 12000,
+          "priceDelivery": 12000,
+          "pricePickup": 12000,
+          "productCategoryId": 32,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Terra Pizza",
+      "parentId": null,
+      "position": 800000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON POMODORO DE LA CASA, QUESO, POLLO AHUMADO Y GRILLADO, TOCINO Y SALSA AGRIDULCE.",
+          "id": 114,
+          "name": "Pizza Terracielo",
+          "position": 7400000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/167181/common/products/114"
+        },
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON BASE DE POMODORO, QUESO MOZARELA, ACEITUNA AZAPA, CARNE MECHADA, ROCOTO, AROS DE CEBOLLA BLANCA.",
+          "id": 211,
+          "name": "Pizza Terra Nortina",
+          "position": 8800000,
+          "price": 11000,
+          "priceDelivery": 11000,
+          "pricePickup": 11000,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON POMODORO DE LA CASA, QUESO PARMESANO,  CHAMPIÑON, TOMATE CHERRY, PALMITOS, PIMENTON Y NOTAS DE ALBAHACA.",
+          "id": 213,
+          "name": "Pizza Terra Love",
+          "position": 9100000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON POMODORO DE LA CASA, QUESO PARMESANO, PESTO, HOJAS DE ALBAHACA, TOMATE CHERRY Y AROS DE ACEITUNA.",
+          "id": 451,
+          "name": "Pizza Di Pesto",
+          "position": 9300000,
+          "price": 10900,
+          "priceDelivery": 10900,
+          "pricePickup": 10900,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON BASE POMODORO, SALAME, QUESO, PIMENTON ROJO Y HOJAS DE ALBAHACA FRESCA",
+          "id": 115,
+          "name": "Pizza Salami",
+          "position": 9700000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON BASE POMODORO, MOZARELA, PARMESANO, CHEDAR, NOTAS DE PESTO Y HOJAS DE ALBAHACA FRESCA",
+          "id": 214,
+          "name": "PIZZA 3 QUESO",
+          "position": 11400000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON BASE POMODORO, QUEZO MOZARELA, JAMON, PIÑA CON NOTAS DE MERKEN A ELECCION",
+          "id": 212,
+          "name": "Pizza Hawaiana",
+          "position": 11700000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "FINA Y CROCANTE MASA DE PIZZA  RUSTICA CON SALSA POMODORO DE LA CASA, QUESO MOZZARELLA, PIMENTON ROJO, NOTAS DE ALBAHACA Y PIMIENTA FRESCA.",
+          "id": 113,
+          "name": "Pizza Margarita",
+          "position": 12000000,
+          "price": 8500,
+          "priceDelivery": 8500,
+          "pricePickup": 8500,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "06 AROS DE CEBOLLA CON 01 SALSA A ELECCION",
+          "id": 246,
+          "name": "AROS DE CEBOLLA",
+          "position": 25000000,
+          "price": 2500,
+          "priceDelivery": 2500,
+          "pricePickup": 2500,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Agregados de pizza",
+          "id": 273,
+          "name": "Agregados de Pizza",
+          "position": 27400000,
+          "price": 1500,
+          "priceDelivery": 1500,
+          "pricePickup": 1500,
+          "productCategoryId": 33,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Terra Mexico",
+      "parentId": null,
+      "position": 900000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "TROZOS DE CARNE SALTEADOS CON CEBOLLA MORADA, TOMATE, PIMENTON, QUESO, SALSA BECHAMEL, ROCOTO A ELECCION Y \nACOMPAÑADO DE SALSAS.",
+          "id": 231,
+          "name": "Quesadilla Saltada",
+          "position": 13500000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "POLLO SALTEADO CON CHAMPIÑON, SALSA BECHAMEL, QUESO Y CEBOLLIN.",
+          "id": 229,
+          "name": "Quesadilla suprema",
+          "position": 23600000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "SALTEADO DE ZANAHORIA, ZAPALLO ITALIANO, CEBOLLIN, PIMENTON, SALSA BECHAMEL, QUESO Y  NOTAS AGRICULCES. \n02 SALSAS A ELECCION",
+          "id": 237,
+          "name": "Quesadilla Vegetariana",
+          "position": 23800000,
+          "price": 9500,
+          "priceDelivery": 9500,
+          "pricePickup": 9500,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Jugosas tiras de carne salteada al momento, acompañadas de lechuga fresca, tomate, pimentón, cebolla, choclo y zapallo italiano en pluma. Todo coronado con guacamole cremoso y nuestra salsa cítrica, que realza cada bocado con un equilibrio perfecto entre frescura y sabor acompañados de una canastilla de papas fritas.",
+          "id": 452,
+          "name": "Tacos de Carne",
+          "position": 23900000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Tiernas tiras de pollo salteado y bien sazonado, combinadas con lechuga, tomate, pimentón, cebolla, choclo y zapallo italiano en pluma. Se sirven con guacamole casero y una salsa cítrica que aporta un toque fresco y vibrante, ideal para quienes buscan sabor y ligereza. Mas una Canastilla de Papas Fritas.",
+          "id": 453,
+          "name": "Tacos de Pollo",
+          "position": 24000000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Una mezcla colorida de verduras salteadas: lechuga, tomate, pimentón, cebolla, choclo y zapallo italiano en pluma, llenas de textura y sabor. Acompañadas de guacamole cremoso y salsa cítrica, es una opción fresca, sabrosa y perfecta para disfrutar sin carne, pero con mucho carácter. acompañado de una canastilla de papas fritas",
+          "id": 454,
+          "name": "Tacos de Verduras",
+          "position": 24100000,
+          "price": 9100,
+          "priceDelivery": 9100,
+          "pricePickup": 9100,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "02 FAJITAS MEXICANAS GRILLADAS, RELLENAS CON ARROZ, CARNE SALTADA CON PIMENTON, CEBOLLA MORADA, MORRON,  CHOCLO, SALSA BECHAMEL, QUESO Y LECHUGA, ACOMPAÑADA DE UNA PORCION DE PAPAS FRITAS Y UNA SALSA A ELECCION.",
+          "id": 238,
+          "name": "Burritos Grillados de Carne",
+          "position": 24300000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "02 FAJITAS MEXICANAS GRILLADAS Y RELLENAS CON ARROZ, POLLO, CHAMPIÑON, PIMENTON,  SALSA BECHAMEL,  QUESO, LECHUGA PICADA, ACOMPAÑADA DE UNA PORCION DE PAPAS FRITAS Y UNA SALSA A ELECCION",
+          "id": 239,
+          "name": "BURRITOS GRILLADOS CON POLLO",
+          "position": 24400000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "02 FAJITAS MEXICANAS GRILLADAS, ACOMPAÑADAS DE MIX DE VERDURAS SALTEADAS E HIDRATADAS CON SALSA BECHAMEL Y QUESO CHEDAR",
+          "id": 240,
+          "name": "BURRITO VEGETARIANO",
+          "position": 24500000,
+          "price": 9900,
+          "priceDelivery": 9900,
+          "pricePickup": 9900,
+          "productCategoryId": 34,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Sandwich",
+      "parentId": null,
+      "position": 1900000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "Pan Ciabata, Jamon, Queso Cabra, Rodajas de Tomate, Albahaca, Aceituna, Aceite oliva y Salsas de la Casa.",
+          "id": 427,
+          "name": "Sandwich Caprese",
+          "position": 7200000,
+          "price": 5500,
+          "priceDelivery": 5500,
+          "pricePickup": 5500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "CARNE MECHADA, TOMATE Y PALTA.",
+          "id": 107,
+          "name": "Sandwich Mechada Italiana",
+          "position": 13100000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "CARNE MECHADA Y PALTA.",
+          "id": 110,
+          "name": "Sandwich Mechada Palta",
+          "position": 13200000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "CARNE MECHADA Y QUESO.",
+          "id": 109,
+          "name": "Sandwich Mechada Queso",
+          "position": 13400000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 417,
+          "name": "Churrasco Italiano.",
+          "position": 13900000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 418,
+          "name": "Churrasco Barros Luco.",
+          "position": 14200000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Sándwich compuesto por ají verde picado, lonjas de carne, porotos verdes cocidos fríos, tomates en rodajasSándwich compuesto por ají verde picado, lonjas de carne, porotos verdes cocidos fríos, tomates en rodajasSándwich compuesto por ají verde picado, lonjas de carne, porotos verdes cocidos fríos, tomates en rodajas",
+          "id": 419,
+          "name": "Churrasco Chacarero",
+          "position": 14400000,
+          "price": 6000,
+          "priceDelivery": 6000,
+          "pricePickup": 6000,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Sandwich de Carne, Jamón, Huevo y Queso",
+          "id": 284,
+          "name": "Churrasco Americano",
+          "position": 14600000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Sandwich Churrasco Palta Laminada",
+          "id": 293,
+          "name": "Churrasco Palta",
+          "position": 14900000,
+          "price": 6000,
+          "priceDelivery": 6000,
+          "pricePickup": 6000,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 281,
+          "name": "Churrasco Solo",
+          "position": 16700000,
+          "price": 5000,
+          "priceDelivery": 5000,
+          "pricePickup": 5000,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 371,
+          "name": "Sandwich Ave Italiana",
+          "position": 17000000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Tostadas con Huevo Pochado montados en una lactonesa cebollin y toques citricos.",
+          "id": 164,
+          "name": "Huevo Pochado con Tostadas",
+          "position": 17200000,
+          "price": 4500,
+          "priceDelivery": 4500,
+          "pricePickup": 4500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Deliciosa Tostadas en Pan Ciabatta Con una pocion de palta y Otro de Palta",
+          "id": 160,
+          "name": "Tostadas Con Palta y Huevo Revuelto",
+          "position": 17400000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Paila con 02 Huevos Fritos",
+          "id": 163,
+          "name": "Paila de Huevo",
+          "position": 17500000,
+          "price": 2500,
+          "priceDelivery": 2500,
+          "pricePickup": 2500,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Tostadas en pan chiabata o pan molde con semillas",
+          "id": 408,
+          "name": "Tostadas Con Mantequilla y Mermelada",
+          "position": 17600000,
+          "price": 5900,
+          "priceDelivery": 5900,
+          "pricePickup": 5900,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Deliciosas Tostadas en Pan Ciabatta, Palta Laminada y Aceite Oliva con Toques de Oregano",
+          "id": 159,
+          "name": "Tostadas Con Palta Laminada",
+          "position": 17700000,
+          "price": 6000,
+          "priceDelivery": 6000,
+          "pricePickup": 6000,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Rico Omelette Acompañado en Pan Ciabatta",
+          "id": 161,
+          "name": "Omelette Queso y Jamón",
+          "position": 17800000,
+          "price": 5190,
+          "priceDelivery": 5190,
+          "pricePickup": 5190,
+          "productCategoryId": 24,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Cafetería y Teteria",
+      "parentId": null,
+      "position": 2000000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [
+        {
+          "id": 41,
+          "name": "Cafecitos",
+          "parentId": 23,
+          "position": 2300000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 118,
+              "name": "Expresso Simple",
+              "position": 1200000,
+              "price": 2900,
+              "priceDelivery": 2900,
+              "pricePickup": 2900,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 117,
+              "name": "Expreso Doble",
+              "position": 2600000,
+              "price": 3100,
+              "priceDelivery": 3100,
+              "pricePickup": 3100,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 116,
+              "name": "Americano Simple",
+              "position": 3000000,
+              "price": 2900,
+              "priceDelivery": 2900,
+              "pricePickup": 2900,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 279,
+              "name": "Americano Doble",
+              "position": 3300000,
+              "price": 3100,
+              "priceDelivery": 3100,
+              "pricePickup": 3100,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 216,
+              "name": "Cafe Cortado",
+              "position": 3500000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 455,
+              "name": "Lungo",
+              "position": 3700000,
+              "price": 3300,
+              "priceDelivery": 3300,
+              "pricePickup": 3300,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 123,
+              "name": "Ristreto",
+              "position": 3800000,
+              "price": 2350,
+              "priceDelivery": 2350,
+              "pricePickup": 2350,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 125,
+              "name": "Irish Coffe",
+              "position": 3900000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 469,
+              "name": "IRISH CREAM",
+              "position": 4000000,
+              "price": 4550,
+              "priceDelivery": 4550,
+              "pricePickup": 4550,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 122,
+              "name": "Afogato",
+              "position": 4100000,
+              "price": 4000,
+              "priceDelivery": 4000,
+              "pricePickup": 4000,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 205,
+              "name": "Cafe Irlandes",
+              "position": 4400000,
+              "price": 3800,
+              "priceDelivery": 3800,
+              "pricePickup": 3800,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 121,
+              "name": "Latte Macchiato",
+              "position": 4700000,
+              "price": 3800,
+              "priceDelivery": 3800,
+              "pricePickup": 3800,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 126,
+              "name": "Macchiato Caramel",
+              "position": 5000000,
+              "price": 3200,
+              "priceDelivery": 3200,
+              "pricePickup": 3200,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 421,
+              "name": "Flat White",
+              "position": 5100000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 456,
+              "name": "Cafe Bombón",
+              "position": 5300000,
+              "price": 3990,
+              "priceDelivery": 3990,
+              "pricePickup": 3990,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 124,
+              "name": "CAFÉ ESCOCÉS",
+              "position": 5600000,
+              "price": 3900,
+              "priceDelivery": 3900,
+              "pricePickup": 3900,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 119,
+              "name": "CAFÉ VIENÉS",
+              "position": 5700000,
+              "price": 4000,
+              "priceDelivery": 4000,
+              "pricePickup": 4000,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 458,
+              "name": "Cafe Baileys",
+              "position": 5800000,
+              "price": 4900,
+              "priceDelivery": 4900,
+              "pricePickup": 4900,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 459,
+              "name": "CAFÉ BARRAQUITO",
+              "position": 5900000,
+              "price": 5800,
+              "priceDelivery": 5800,
+              "pricePickup": 5800,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 460,
+              "name": "CAFÉ CUBABELLA",
+              "position": 6000000,
+              "price": 4900,
+              "priceDelivery": 4900,
+              "pricePickup": 4900,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 461,
+              "name": "CAFÉ BANNY",
+              "position": 6100000,
+              "price": 4900,
+              "priceDelivery": 4900,
+              "pricePickup": 4900,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 120,
+              "name": "Capuccino",
+              "position": 6200000,
+              "price": 3300,
+              "priceDelivery": 3300,
+              "pricePickup": 3300,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 85,
+              "name": "Capuchino Vainilla",
+              "position": 6700000,
+              "price": 3300,
+              "priceDelivery": 3300,
+              "pricePickup": 3300,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 306,
+              "name": "Capuccino Almendra",
+              "position": 29500000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 462,
+              "name": "Cappuccino Sahne-Nuss",
+              "position": 35400000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 463,
+              "name": "CAPPUCCINO TRICOLOR",
+              "position": 38300000,
+              "price": 4000,
+              "priceDelivery": 4000,
+              "pricePickup": 4000,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 464,
+              "name": "CAPPUCCINO SWEET",
+              "position": 41500000,
+              "price": 4800,
+              "priceDelivery": 4800,
+              "pricePickup": 4800,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 465,
+              "name": "CAPPUCCINO NEW YORK",
+              "position": 41600000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 466,
+              "name": "CAPPUCCINO ITALIANO",
+              "position": 41700000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 467,
+              "name": "CAPPUCCINO MOCACCINO",
+              "position": 41800000,
+              "price": 4300,
+              "priceDelivery": 4300,
+              "pricePickup": 4300,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 468,
+              "name": "CAPPUCCINO CARAMEL",
+              "position": 41900000,
+              "price": 4300,
+              "priceDelivery": 4300,
+              "pricePickup": 4300,
+              "productCategoryId": 41,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Tecitos",
+          "parentId": 23,
+          "position": 2400000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 84,
+              "name": "Te Nortino",
+              "position": 14000000,
+              "price": 2000,
+              "priceDelivery": 2000,
+              "pricePickup": 2000,
+              "productCategoryId": 42,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 373,
+              "name": "CHAI LATTE",
+              "position": 34700000,
+              "price": 3500,
+              "priceDelivery": 3500,
+              "pricePickup": 3500,
+              "productCategoryId": 42,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "name": "Frapuccino",
+          "parentId": 23,
+          "position": 2600000,
+          "iconName": null,
+          "taxPercentage": null,
+          "children": [],
+          "products": [
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 457,
+              "name": "ICED COFFEE LATTE",
+              "position": 5500000,
+              "price": 4450,
+              "priceDelivery": 4450,
+              "pricePickup": 4450,
+              "productCategoryId": 43,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 112,
+              "name": "Frapuccino",
+              "position": 13800000,
+              "price": 4000,
+              "priceDelivery": 4000,
+              "pricePickup": 4000,
+              "productCategoryId": 43,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 151,
+              "name": "Frapuccino Vainilla",
+              "position": 16300000,
+              "price": 3999,
+              "priceDelivery": 3999,
+              "pricePickup": 3999,
+              "productCategoryId": 43,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 168,
+              "name": "MilkShake",
+              "position": 18200000,
+              "price": 4200,
+              "priceDelivery": 4200,
+              "pricePickup": 4200,
+              "productCategoryId": 43,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            },
+            {
+              "isAvailable": true,
+              "description": null,
+              "id": 447,
+              "name": "Cafe Helado",
+              "position": 41200000,
+              "price": 4500,
+              "priceDelivery": 4500,
+              "pricePickup": 4500,
+              "productCategoryId": 43,
+              "productGroups": [],
+              "sellAlone": true,
+              "image": null
+            }
+          ]
+        }
+      ],
+      "products": []
+    },
+    {
+      "id": 28,
+      "name": "Tragos Sin Alcohol",
+      "parentId": null,
+      "position": 2500000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 165,
+          "name": "Mojito Sin Alcohol",
+          "position": 18000000,
+          "price": 4000,
+          "priceDelivery": 4000,
+          "pricePickup": 4000,
+          "productCategoryId": 28,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 179,
+          "name": "Royal Guard Sin Alcohol",
+          "position": 20200000,
+          "price": 2500,
+          "priceDelivery": 2500,
+          "pricePickup": 2500,
+          "productCategoryId": 28,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 180,
+          "name": "Heineken Cero Alcohol",
+          "position": 20300000,
+          "price": 2500,
+          "priceDelivery": 2500,
+          "pricePickup": 2500,
+          "productCategoryId": 28,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": null,
+          "id": 186,
+          "name": "Lucky Strike Clic Frost",
+          "position": 20400000,
+          "price": 6500,
+          "priceDelivery": 6500,
+          "pricePickup": 6500,
+          "productCategoryId": 28,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Nuestras Salsas Caseras",
+      "parentId": null,
+      "position": 2900000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "SALSA CREMOSA A BASE DE CILANTRO, LIMÓN Y LECHE DE TIGRE.",
+          "id": 93,
+          "name": "Salsa Acevichada",
+          "position": 4200000,
+          "price": 500,
+          "priceDelivery": 500,
+          "pricePickup": 500,
+          "productCategoryId": 13,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "TRADICIONAL HUAICAINA A BASE DE AJI AMARILLO Y MANI.",
+          "id": 95,
+          "name": "Salsa huancaina",
+          "position": 8400000,
+          "price": 500,
+          "priceDelivery": 500,
+          "pricePickup": 500,
+          "productCategoryId": 13,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "SALSA CREMOSA DE QUESO CHEDDAR.",
+          "id": 96,
+          "name": "Salsa Cheddar",
+          "position": 9200000,
+          "price": 500,
+          "priceDelivery": 500,
+          "pricePickup": 500,
+          "productCategoryId": 13,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "SALSA JAPONESA PARA ACOMPAÑAR EL SUSHI.",
+          "id": 98,
+          "name": "Salsa Agridulce tradicional",
+          "position": 10100000,
+          "price": 500,
+          "priceDelivery": 500,
+          "pricePickup": 500,
+          "productCategoryId": 13,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "ALMIBAR DE VINO MERLOT, CIRUELA Y CANELA TOSTADA.",
+          "id": 99,
+          "name": "Salsa vino y ciruela",
+          "position": 10300000,
+          "price": 500,
+          "priceDelivery": 500,
+          "pricePickup": 500,
+          "productCategoryId": 13,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "MAYONESA CON NOTAS DE PEREJIL Y AJO.",
+          "id": 101,
+          "name": "Salsa verde",
+          "position": 10800000,
+          "price": 500,
+          "priceDelivery": 500,
+          "pricePickup": 500,
+          "productCategoryId": 13,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        },
+        {
+          "isAvailable": true,
+          "description": "Salsa Chimichurri argentino,  tradicional chimichurri a base de perejil, ajo, cebolla y pimientos.",
+          "id": 75,
+          "name": "Salsa Chimichurri argentino",
+          "position": 11100000,
+          "price": 500,
+          "priceDelivery": 500,
+          "pricePickup": 500,
+          "productCategoryId": 13,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Menu Tipo Buffet 3 Elecciones + Consome o Crema del Dia",
+      "parentId": null,
+      "position": 3000000,
+      "iconName": null,
+      "taxPercentage": null,
+      "children": [],
+      "products": [
+        {
+          "isAvailable": true,
+          "description": "Entrada de Ensalada Seguido de una Rica Crema del Dia para finalizar con un Rico Fondo del día",
+          "id": 108,
+          "name": "Terra Ejecutivo",
+          "position": 13300000,
+          "price": 5500,
+          "priceDelivery": 5500,
+          "pricePickup": 5500,
+          "productCategoryId": 25,
+          "productGroups": [],
+          "sellAlone": true,
+          "image": null
+        }
+      ]
+    }
+  ]
+}

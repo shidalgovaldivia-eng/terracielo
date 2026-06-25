@@ -13,6 +13,10 @@ const nextConfig: NextConfig = {
       {
         protocol: "https",
         hostname: "maps.googleapis.com"
+      },
+      {
+        protocol: "https",
+        hostname: "fudo-apps-storage.s3.sa-east-1.amazonaws.com"
       }
     ]
   }

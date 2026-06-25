@@ -1,4 +1,4 @@
-import { featuredDishes, siteConfig } from "@/data/site";
+import { featuredDishes } from "@/data/site";
 import { AnimatedSection } from "@/components/ui/animated-section";
 import { CtaButton } from "@/components/ui/cta-button";
 import { ImageCard } from "@/components/ui/image-card";
@@ -14,7 +14,7 @@ export function DishesSection() {
             title="Propuestas para compartir, celebrar y volver."
             description="Precios referenciales. La carta completa y actualizada se mantiene en Fudo."
           />
-          <CtaButton href={siteConfig.fudoMenuUrl} variant="secondary">Ver Carta Completa</CtaButton>
+          <CtaButton href="/carta" variant="secondary">Ver Carta Completa</CtaButton>
         </div>
         <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
           {featuredDishes.map((dish) => (

@@ -1,6 +1,13 @@
+"use client";
+
+import { usePathname } from "next/navigation";
 import { defaultReservationUrl } from "@/lib/links";
 
 export function FloatingWhatsApp() {
+  const pathname = usePathname();
+  const isCarta = pathname === "/carta";
+  if (isCarta) return null;
+
   return (
     <a
       href={defaultReservationUrl}

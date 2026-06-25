@@ -1,0 +1,250 @@
+[
+  {
+    "id": 30,
+    "name": "Barra Terracielo",
+    "parentId": null,
+    "position": 6250,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 18,
+    "name": "Para Refrescar",
+    "parentId": null,
+    "position": 9375,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 10,
+    "name": "Arma tu Plato, Carne mas Guarnición a Elección",
+    "parentId": null,
+    "position": 100000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 12,
+    "name": "Recomendación del Chef",
+    "parentId": null,
+    "position": 200000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 26,
+    "name": "Menu Kids",
+    "parentId": null,
+    "position": 300000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 27,
+    "name": "Postres Terracielo",
+    "parentId": null,
+    "position": 400000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 47,
+    "name": "Tablas",
+    "parentId": null,
+    "position": 500000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 14,
+    "name": "Canastas",
+    "parentId": null,
+    "position": 600000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 32,
+    "name": "Terra Burguers",
+    "parentId": null,
+    "position": 700000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 33,
+    "name": "Terra Pizza",
+    "parentId": null,
+    "position": 800000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 34,
+    "name": "Terra Mexico",
+    "parentId": null,
+    "position": 900000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 39,
+    "name": "1.Mojitos Tropical",
+    "parentId": 30,
+    "position": 1000000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 46,
+    "name": "2. Mojitos Terralove",
+    "parentId": 30,
+    "position": 1100000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 36,
+    "name": "3. Schop",
+    "parentId": 30,
+    "position": 1200000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 35,
+    "name": "4.Cervezas Botellin",
+    "parentId": 30,
+    "position": 1300000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 37,
+    "name": "5. Micheladas",
+    "parentId": 30,
+    "position": 1400000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 40,
+    "name": "6. Coctail Terracielo",
+    "parentId": 30,
+    "position": 1500000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 38,
+    "name": "7. HH Terralovers",
+    "parentId": 30,
+    "position": 1600000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 44,
+    "name": "8. Vinos",
+    "parentId": 30,
+    "position": 1700000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 45,
+    "name": "9. Botellón",
+    "parentId": 30,
+    "position": 1800000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 24,
+    "name": "Sandwich",
+    "parentId": null,
+    "position": 1900000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 23,
+    "name": "Cafetería y Teteria",
+    "parentId": null,
+    "position": 2000000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 29,
+    "name": "Bebidas",
+    "parentId": 18,
+    "position": 2100000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 41,
+    "name": "Cafecitos",
+    "parentId": 23,
+    "position": 2300000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 42,
+    "name": "Tecitos",
+    "parentId": 23,
+    "position": 2400000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 28,
+    "name": "Tragos Sin Alcohol",
+    "parentId": null,
+    "position": 2500000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 43,
+    "name": "Frapuccino",
+    "parentId": 23,
+    "position": 2600000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 11,
+    "name": "Guarniciones de la casa",
+    "parentId": 10,
+    "position": 2800000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 13,
+    "name": "Nuestras Salsas Caseras",
+    "parentId": null,
+    "position": 2900000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 25,
+    "name": "Menu Tipo Buffet 3 Elecciones + Consome o Crema del Dia",
+    "parentId": null,
+    "position": 3000000,
+    "iconName": null,
+    "taxPercentage": null
+  },
+  {
+    "id": 19,
+    "name": "Jugos Naturales",
+    "parentId": 18,
+    "position": 3200000,
+    "iconName": null,
+    "taxPercentage": null
+  }
+]

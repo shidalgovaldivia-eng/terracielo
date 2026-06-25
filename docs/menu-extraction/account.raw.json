@@ -1,0 +1,259 @@
+{
+  "name": "Terracielo sabor y vida",
+  "settings": {
+    "appearance": {
+      "colorScheme": null,
+      "typography": null,
+      "template": null,
+      "categoryIcons": {
+        "enabled": true,
+        "variant": "stroke"
+      }
+    },
+    "currencySymbol": "$",
+    "countryCode": "cl",
+    "cardsViewEnabled": true,
+    "name": "Terracielo Sabor y Vida",
+    "pickup": true,
+    "delivery": true,
+    "dataCollectionEnabled": true,
+    "availableTimes": {
+      "pickup": {
+        "availableNow": true,
+        "times": [
+          [
+            [
+              "08:30",
+              "18:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "01:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "01:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "01:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "01:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "03:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "03:00"
+            ]
+          ]
+        ]
+      },
+      "delivery": {
+        "availableNow": true,
+        "times": [
+          [
+            [
+              "09:30",
+              "17:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "00:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "00:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "00:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "00:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "00:00"
+            ]
+          ],
+          [
+            [
+              "08:30",
+              "00:00"
+            ]
+          ]
+        ]
+      },
+      "selfService": {
+        "availableNow": true,
+        "times": null
+      }
+    },
+    "backgroundImage": {
+      "url": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/167181/online-menu/background-image"
+    },
+    "contact": {
+      "email": "TERRACIELOSABORYVIDA@GMAIL.COM",
+      "phone": 56958017106,
+      "whatsapp": 56958017106,
+      "address": "AV. Ramon Pérez Opazo #3122, Alto Hospicio."
+    },
+    "social": {
+      "facebook": "https://facebook.com/terracielogastrobar/",
+      "instagram": "https://instagram.com/terracielogastrobar/"
+    },
+    "onlinePaymentMethods": [],
+    "offlinePaymentMethods": {
+      "delivery": [
+        {
+          "id": 7,
+          "name": "Transferencia"
+        }
+      ],
+      "pickup": [
+        {
+          "id": 3,
+          "name": "Tarj. Crédito"
+        },
+        {
+          "id": 4,
+          "name": "Tarj. Débito"
+        },
+        {
+          "id": 7,
+          "name": "Transferencia"
+        },
+        {
+          "id": 1,
+          "name": "Efectivo"
+        }
+      ]
+    },
+    "paymentMethodDiscounts": [],
+    "openingHours": null,
+    "location": {
+      "name": "Av. Ramón Pérez Opazo 3122, Alto Hospicio, Tarapacá, Chile",
+      "google_id": "Ej1Bdi4gUmFtw7NuIFDDqXJleiBPcGF6byAzMTIyLCBBbHRvIEhvc3BpY2lvLCBUYXJhcGFjw6EsIENoaWxlIjESLwoUChIJRRf_D-MUUpER_AvM26PQo4kQshgqFAoSCY-3PZbjFFKREZB6Y-Qpsfhe",
+      "lat": -20.268475,
+      "lng": -70.101621
+    },
+    "logo": {
+      "shape": "square",
+      "url": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/167181/online-menu/logo"
+    },
+    "onlineMenuEnabled": true,
+    "qrMenu": {
+      "backgroundImage": {
+        "url": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/167181/qr-menu/background-image"
+      },
+      "enabled": true,
+      "logo": {
+        "url": "https://fudo-apps-storage.s3.sa-east-1.amazonaws.com/production/167181/qr-menu/logo",
+        "shape": ""
+      },
+      "name": "Terracielo Sabor y Vida",
+      "contact": {
+        "email": "terracielosaboryvida@gmail.com",
+        "phone": 56958017106,
+        "whatsapp": 56958017106,
+        "address": "Avenida Ramón Perez Opazo 3122, Alto Hospicio."
+      },
+      "social": {
+        "facebook": "https://web.facebook.com/terracielogastrobar?_rdc=1&_rdr",
+        "instagram": "https://www.instagram.com/terracielogastrobar/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA=="
+      },
+      "openingHours": "abierto de lunes a domingo 08:00 a 03:00 AM",
+      "selfService": {
+        "enabled": false,
+        "paymentMethod": "waiter",
+        "showProductImages": false,
+        "acceptProductsAutomatically": false,
+        "splitSales": null
+      },
+      "showProductImages": true
+    },
+    "requireCashAmount": null,
+    "shippingCost": 3000,
+    "shippingCostType": null,
+    "autocompleteRestrictionLevel": "optional",
+    "deliveryZones": [
+      {
+        "name": "Alto Hospicio",
+        "shippingCost": 2000,
+        "shippingCostPerKilometer": null,
+        "shape": {
+          "type": "circle",
+          "data": {
+            "center": {
+              "lat": -20.271373436891157,
+              "lng": -70.09303746808506
+            },
+            "radius": 2931.877796931244
+          }
+        }
+      }
+    ],
+    "minimumAmount": {
+      "enabled": null,
+      "value": null
+    },
+    "coupons": {
+      "enabled": false
+    },
+    "tracking": {
+      "enabled": false
+    },
+    "scheduleOrder": {
+      "enabled": true
+    },
+    "pixel": null,
+    "paused": false,
+    "customerRegistration": null,
+    "customerRegistrationEnabled": null,
+    "activeOnlineMenuPlus": true,
+    "logistics": null,
+    "uberDirectCashEnabled": false,
+    "feeSettings": {
+      "isServiceFeeBonified": false,
+      "serviceFeePercentage": 2.26,
+      "serviceFeeFixedAmount": 0,
+      "transferredServiceFeePercentage": 100
+    },
+    "taxConditionValid": false,
+    "countryTaxPercentage": 19,
+    "banner": {
+      "backgroundColor": null,
+      "enabled": null,
+      "message": null
+    },
+    "carousel": {}
+  }
+}

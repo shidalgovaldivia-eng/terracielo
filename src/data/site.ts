@@ -36,12 +36,12 @@ export const siteConfig = {
 } as const;
 
 export const navItems: NavItem[] = [
-  { label: "Carta", href: "#platos" },
-  { label: "Menu dia", href: "#menu-ejecutivo" },
-  { label: "Cocteleria", href: "#cocteleria" },
-  { label: "Eventos", href: "#eventos" },
-  { label: "Reservas", href: "#reservas" },
-  { label: "Ubicacion", href: "#ubicacion" }
+  { label: "Carta", href: "/carta" },
+  { label: "Menu dia", href: "/#menu-ejecutivo" },
+  { label: "Cocteleria", href: "/#cocteleria" },
+  { label: "Eventos", href: "/#eventos" },
+  { label: "Reservas", href: "/#reservas" },
+  { label: "Ubicacion", href: "/#ubicacion" }
 ];
 
 export const heroImage: ImageAsset = {

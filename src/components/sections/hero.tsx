@@ -29,7 +29,7 @@ export function Hero() {
           </p>
           <div className="mt-9 flex flex-col gap-3 sm:flex-row">
             <CtaButton href={defaultReservationUrl}>Reservar Mesa</CtaButton>
-            <CtaButton href={siteConfig.fudoMenuUrl} variant="secondary">Ver Carta</CtaButton>
+            <CtaButton href="/carta" variant="secondary">Ver Carta</CtaButton>
             <CtaButton href={defaultReservationUrl} variant="ghost">WhatsApp</CtaButton>
           </div>
           <div className="mt-10 grid max-w-2xl gap-3 sm:grid-cols-3">
